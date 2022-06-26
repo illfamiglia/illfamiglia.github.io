@@ -1,0 +1,60 @@
+# ------------------------------------------------------------------------------
+# Metadata for music streaming/purchase outlets.
+# ------------------------------------------------------------------------------
+#
+# - id:
+#   name:
+#   url:
+#   logo:
+#   color:
+
+- id: amazonmusic
+  name: Amazon Music
+  url: https://amazon.com/music
+  logo: /images/icons/amazon.svg
+  color: '#4502ff'
+- id: applemusic
+  name: Apple Music
+  url: https://music.apple.com
+  logo: /images/icons/applemusic.svg
+  color: '#FA243C'
+- id: bandcamp
+  name: Bandcamp
+  url: https://bandcamp.com
+  logo: /images/icons/bandcamp.svg
+  color: '#408294'
+- id: deezer
+  name: Deezer
+  url: https://www.deezer.com
+  logo: /images/icons/deezer.svg
+  color: '#FEAA2D'
+- id: pandora
+  name: Pandora
+  url: https://www.pandora.com
+  logo: /images/icons/pandora.svg
+  color: '#224099'
+- id: soundcloud
+  name: SoundCloud
+  url: https://soundcloud.com
+  logo: /images/icons/soundcloud.svg
+  color: '#FF3300'
+- id: spotify
+  name: Spotify
+  url: https://open.spotify.com
+  logo: /images/icons/spotify.svg
+  color: '#1DB954'
+- id: tidal
+  name: Tidal
+  url: http://listen.tidalhifi.com
+  logo: /images/icons/tidal.svg
+  color: '#000000'
+- id: youtube
+  name: YouTube
+  url: https://youtube.com
+  logo: /images/icons/youtube.svg
+  color: '#FF0000'
+- id: youtubemusic
+  name: YouTube Music
+  url: https://music.youtube.com
+  logo: /images/icons/youtubemusic.svg
+  color: '#FF0000'

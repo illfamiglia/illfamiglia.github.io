@@ -1,0 +1,40 @@
+---
+layout: default
+class: home
+---
+
+<section class="py-5 text-center container">
+  <div class="row">
+    <div class="mx-auto">
+      <h1><img class="d-block mx-auto mb-3" src="{{ "/images/ill-famiglia-logo-black.svg" | prepend: site.baseurl }}" alt="{{ site.title }}" width="100%" height="160"></h1>
+      <p class="lead text-muted">Small family. Big music.</p>
+    </div>
+  </div>
+</section>
+
+{% if site.data.artists %}
+<section class="album py-3 container">
+  <h2 class="display-6 text-center">Artists</h2>
+  <hr>
+  <div class="row row-cols-1 row-cols-lg-2 g-3">
+
+    {% for artist in site.data.artists %}
+    <div class="col">
+      <div class="card border-0 text-center">
+        <a href="{{ artist.id | prepend: "/" | prepend: site.baseurl }}"><img class="card-img-top" src="{{ artist.logo | prepend: "/" | prepend: artist.id | prepend: "/images/artists/" | prepend: site.baseurl }}" alt="{{ artist.name }}" width="100%"
+          {% if artist.id == 'ill-fam' %} height="80" style="margin-top:10px;margin-bottom:10px"
+          {% elsif artist.id == 'joe-sciarrone' %} height="45" style="margin-top:30px;margin-bottom:20px"
+          {% elsif artist.id == 'roxanne' %} height="60" style="margin-top:30px;margin-bottom:15px"
+          {% elsif artist.id == 'train-engineers' %} height="95" style="margin-top:10px;margin-bottom:0"
+          {% endif %}></a>
+        <div class="card-body">
+          <p class="card-text font-monospace">{{ artist.genre }}</p>
+          {% comment %}<p class="card-text"> <a href="{{ artist.id | prepend: "/" | prepend: site.baseurl }}">more</a></p>{% endcomment %}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+
+  </div>
+</section>
+{% endif %}

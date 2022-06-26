@@ -1,0 +1,486 @@
+# ------------------------------------------------------------------------------
+# Metadata for artists and their releases.
+# ------------------------------------------------------------------------------
+#
+# - id:
+#   name:
+#   genre:
+#   logo:
+#   image:
+#   bio:
+#   sites:
+#     amazonmusic:
+#     applemusic:
+#     bandcamp:
+#     deezer:
+#     pandora:
+#     soundcloud:
+#     spotify:
+#     tidal:
+#     youtube:
+#     youtubemusic:
+#   releases:
+#     - id:
+#       name:
+#       date:
+#       url:
+#       image:
+#       outlets:
+#         amazonmusic:
+#         applemusic:
+#         bandcamp:
+#         deezer:
+#         pandora:
+#         soundcloud:
+#         spotify:
+#         tidal:
+#         youtube:
+#         youtubemusic:
+
+- id: ill-fam
+  name: Ill Fam
+  genre: R&amp;B/Hip-Hop, Instrumental
+  logo: ill-fam-logo-black.svg
+  image:
+  bio: Ill Fam is a music composer and producer, with a focus on Hip-Hop, Reggae and Rock. Influenced by Jazz, Blues, Soul, and Classical music, it's rare to listen to Ill Fam's work and not be reminded of other musical genres. This challenges one to pin a song to any specific genre.
+  sites:
+    amazonmusic: https://amazon.com/music/player/artists/B0B345MW84/ill-fam
+    applemusic: https://artists.apple.com/a/artist/1627678049
+    bandcamp: https://illfam.bandcamp.com
+    deezer: https://www.deezer.com/us/artist/172192417
+    pandora: https://www.pandora.com/artist/ill-fam/ARdgcPthdh34Jdk
+    spotify: https://open.spotify.com/artist/6SyGRKA0jdT3XtVDzGRyAR
+    tidal: https://tidal.com/browse/artist/32491637
+    youtubemusic: https://music.youtube.com/channel/UCCYUG1P760wS-kJjORJtJZA
+  releases:
+    # - id:
+    #   name:
+    #   date:
+    #   url:
+    #   image:
+    #   outlets:
+    #     amazonmusic:
+    #     applemusic:
+    #     bandcamp:
+    #     deezer:
+    #     pandora:
+    #     soundcloud:
+    #     spotify:
+    #     tidal:
+    #     youtube:
+    #     youtubemusic:
+    - id: you-feeling-self
+      name: You Feeling Self? - EP
+      date: 2022-06-27
+      url: https://illfam.bandcamp.com/album/you-feeling-self-ep
+      image: you-feeling-self.jpg
+      outlets:
+        amazonmusic:
+        applemusic:
+        bandcamp: https://illfam.bandcamp.com/album/you-feeling-self-ep
+        deezer:
+        pandora:
+        soundcloud:
+        spotify:
+        tidal:
+        youtube:
+        youtubemusic:
+    - id: anxietol
+      name: Anxietol
+      date: 2022-06-27
+      url: https://illfam.bandcamp.com/album/anxietol
+      image: anxietol.jpg
+      outlets:
+        amazonmusic:
+        applemusic:
+        bandcamp: https://illfam.bandcamp.com/album/anxietol
+        deezer:
+        pandora:
+        soundcloud:
+        spotify:
+        tidal:
+        youtube:
+        youtubemusic:
+    - id: fly-a-way
+      name: Fly a Way
+      date: 2022-06-03
+      url: https://illfam.bandcamp.com/album/fly-a-way
+      image: fly-a-way.jpg
+      outlets:
+        amazonmusic: https://music.amazon.com/albums/B0B34X4NN9
+        applemusic: https://geo.music.apple.com/album/fly-a-way/1627773566
+        bandcamp: https://illfam.bandcamp.com/album/fly-a-way
+        deezer: https://www.deezer.com/album/324394307
+        pandora: https://www.pandora.com/artist/ill-fam/fly-a-way/ALKqlPdh7jcVj9P
+        soundcloud:
+        spotify: https://open.spotify.com/album/2GhLP5V40dKQKmDjxo439P
+        tidal: http://listen.tidalhifi.com/album/232102707
+        youtube:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_m56fART3RyplTXhUgkWs9AQnTKG9QNkPs
+- id: joe-sciarrone
+  name: Joe Sciarrone
+  genre: Jazz, Bluegrass, Country
+  logo: joe-sciarrone-logo-black.svg
+  image:
+  bio:
+  sites:
+    amazonmusic: https://amazon.com/music/player/artists/B00168OSYY/joe-sciarrone
+    applemusic: https://music.apple.com/us/artist/joe-sciarrone/1535539728
+    bandcamp:
+    deezer: https://www.deezer.com/us/artist/12676955
+    pandora: https://www.pandora.com/artist/joe-sciarrone/ARw6tprdjwcJ2qc
+    soundcloud: https://soundcloud.com/joesciarronemusic
+    spotify: https://open.spotify.com/artist/64izkfkC3CL5flKm3UKPN0
+    tidal: https://tidal.com/browse/artist/12891719
+    youtubemusic: https://music.youtube.com/channel/UCx2pt6yAJ6s5p_WBYUK7lFQ
+  releases:
+    # - id:
+    #   name:
+    #   date:
+    #   url:
+    #   image:
+    #   outlets:
+    #     amazonmusic:
+    #     applemusic:
+    #     bandcamp:
+    #     deezer:
+    #     pandora:
+    #     soundcloud:
+    #     spotify:
+    #     tidal:
+    #     youtube:
+    #     youtubemusic:
+    - id: long-road-home
+      name: Long Road Home
+      date: 2021
+      url:
+      image: long-road-home.jpg
+      outlets:
+        amazonmusic: https://www.amazon.com/music/player/albums/B09B6BDV8B
+        applemusic: https://music.apple.com/us/album/long-road-home/1578173550
+        bandcamp:
+        deezer: https://www.deezer.com/us/album/247089942
+        pandora:
+        soundcloud:
+        spotify: https://open.spotify.com/album/0kiNJx32cyXt5oAF3VWhqd
+        tidal: https://listen.tidal.com/album/192127329
+        youtube:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_nI0s2zhe4HT0uqT4xrNBOlg0SjPvW_WLg
+    - id: the-memory-lane
+      name: The Memory Lane
+      date: 2021
+      url:
+      image: the-memory-lane.jpg
+      outlets:
+        amazonmusic: https://www.amazon.com/music/player/albums/B08SKNKCXM
+        applemusic: https://music.apple.com/us/album/the-memory-lane/1548138413
+        bandcamp:
+        deezer: https://www.deezer.com/us/album/198743862
+        pandora:
+        soundcloud:
+        spotify: https://open.spotify.com/album/6qJkoh3bXfYKSPmOIdDC84
+        tidal: https://listen.tidal.com/album/168892992
+        youtube:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_nFvOQJ1MttHxpcp_aunox6wRXMg9jR_jI
+    - id: song-for-mr-dylan
+      name: Song for Mr. Dylan - single
+      date: 2021
+      url:
+      image: song-for-mr-dylan.jpg
+      outlets:
+        amazonmusic: https://www.amazon.com/music/player/albums/B09KCBTW4W
+        applemusic: https://music.apple.com/us/album/song-for-mr-dylan-single/1592081056
+        bandcamp:
+        deezer: https://www.deezer.com/us/album/268217602
+        pandora:
+        soundcloud: https://soundcloud.com/joesciarronemusic/song-for-mr-dylan
+        spotify: https://open.spotify.com/album/309wjL6GyrgfWoY19r425u
+        tidal: https://listen.tidal.com/album/202546934
+        youtube:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_mqMWgdPTSepu83Vt-_-iK2oh7C52jD4Ig
+    - id: just-drift-away
+      name: Just Drift Away - single
+      date: 2021
+      url:
+      image: just-drift-away.jpg
+      outlets:
+        amazonmusic: https://www.amazon.com/music/player/albums/B09J1MYGBL
+        applemusic: https://music.apple.com/us/album/just-drift-away-single/1589485181
+        bandcamp:
+        deezer: https://www.deezer.com/us/album/264469422
+        pandora:
+        soundcloud:
+        spotify: https://open.spotify.com/album/0un02GgUzTaa5MylNJ8gd6
+        tidal: https://listen.tidal.com/album/200646639
+        youtube:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_me3DvBPE4Y9zx2_1Fqxsv4Kjfbxl75zNE
+    - id: shes-gone
+      name: She's Gone - single
+      date: 2021
+      url:
+      image: shes-gone.jpg
+      outlets:
+        amazonmusic: https://www.amazon.com/music/player/albums/B09H3FZ1GF
+        applemusic: https://music.apple.com/us/album/shes-gone-single/1587356065
+        bandcamp:
+        deezer: https://www.deezer.com/us/album/261186612
+        pandora:
+        soundcloud:
+        spotify: https://open.spotify.com/album/39LrfhpVrPTnL8fPbBXYCf
+        tidal: https://listen.tidal.com/album/198801346
+        youtube:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_k7yC2BzMTei_CoriqJajslDbApBWp_12c
+    - id: everything-to-me
+      name: Everything to Me - single
+      date: 2021
+      url:
+      image: everything-to-me.jpg
+      outlets:
+        amazonmusic: https://amazon.com/music/player/albums/B09GDJZ8ZV
+        applemusic: https://music.apple.com/us/album/everyrthing-to-me-single/1586051261
+        bandcamp:
+        deezer: https://www.deezer.com/us/album/259294752
+        pandora:
+        soundcloud:
+        spotify: https://open.spotify.com/album/70UcyMmoYFsKV9o7bfTSkX
+        tidal: https://listen.tidal.com/album/197805075
+        youtube:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_mDIBFMc9oPjJFUGs2cIMjMqkx49eAfO08
+    - id: the-boy-from-troy
+      name: The Boy From Troy - single
+      date: 2021
+      url:
+      image: the-boy-from-troy.jpg
+      outlets:
+        amazonmusic: https://amazon.com/music/player/albums/B08XRTPDX7
+        applemusic: https://music.apple.com/us/album/the-boy-from-troy-single/1556074506
+        bandcamp:
+        deezer: https://www.deezer.com/us/album/211403772
+        pandora: https://www.pandora.com/artist/joe-sciarrone/the-boy-from-troy-single/ALgzrdqvKqcdq9w
+        soundcloud:
+        spotify: https://open.spotify.com/album/3vdh2eaC9GgydSMKmSkAOs
+        tidal: https://listen.tidal.com/album/175451889
+        youtube:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_k2Raw1y2n3po-A9y_KhC3pBovQz1u_YH0
+    - id: give-me-glorious-days
+      name: Give Me Glorious Days - single
+      date: 2021
+      url:
+      image: give-me-glorious-days.jpg
+      outlets:
+        amazonmusic: https://www.amazon.com/music/player/albums/B08T74YWZJ
+        applemusic: https://music.apple.com/us/album/give-me-glorious-days-single/1549357115
+        bandcamp:
+        deezer: https://www.deezer.com/us/album/200505232
+        pandora:
+        soundcloud:
+        spotify: https://open.spotify.com/album/4hVKahUOucQuckbJIi5Lpb
+        tidal: https://listen.tidal.com/album/169876483
+        youtube:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_m1OsHlXMT1ygMVy3YgsQ89Ah4TwgFcyCw
+    - id: melt-into-everything
+      name: Melt Into Everything - single
+      date: 2020
+      url:
+      image: melt-into-everything.jpg
+      outlets:
+        amazonmusic: https://amazon.com/music/player/albums/B08RRSFFDK
+        applemusic: https://music.apple.com/us/album/melt-into-everything-single/1546960389
+        bandcamp:
+        deezer: https://www.deezer.com/us/album/196690112
+        pandora:
+        soundcloud:
+        spotify: https://open.spotify.com/album/1YqI2pZ0SFbGbvHsMpqR90
+        tidal: https://listen.tidal.com/album/167790866
+        youtube:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_kskGN08ZECxE7RZyvqzUp1NgZh5OiOMzo
+    - id: sundown-town
+      name: Sundown Town - single
+      date: 2020
+      url:
+      image: sundown-town.jpg
+      outlets:
+        amazonmusic: https://www.amazon.com/music/player/albums/B08Q9MM8NY
+        applemusic: https://music.apple.com/us/album/sundown-town-single/1544765044
+        bandcamp:
+        deezer: https://www.deezer.com/us/album/192462682
+        pandora:
+        soundcloud:
+        spotify: https://open.spotify.com/album/58VENAgGuw71yLShgOfIG6
+        tidal: https://listen.tidal.com/album/165688912
+        youtube:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_mYdIAX6FvmFYWrc1me-hpCXT2tcSA6nto
+    - id: still-waiting-for-the-change-to-come
+      name: Still Waiting for the Change To Come - single
+      date: 2020
+      url:
+      image: still-waiting-for-the-change-to-come.jpg
+      outlets:
+        amazonmusic: https://www.amazon.com/music/player/albums/B08NG6V5LW
+        applemusic: https://music.apple.com/us/album/still-waiting-for-the-change-to-come-single/1538708355
+        bandcamp:
+        deezer: https://www.deezer.com/us/album/183972022
+        pandora:
+        soundcloud:
+        spotify: https://open.spotify.com/album/5ShqNSbVPkRGVc4je5QA7l
+        tidal: https://listen.tidal.com/album/160956462
+        youtube:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_kfknCVWYyk-7s8Kr3obo2zydoJUDfqpZc
+    - id: awareness-disease
+      name: Awareness Disease - single
+      date: 2020
+      url:
+      image: awareness-disease.jpg
+      outlets:
+        amazonmusic: https://amazon.com/music/player/albums/B08NCR17HK
+        applemusic: https://music.apple.com/us/album/awareness-disease-single/1537322740
+        bandcamp:
+        deezer: https://www.deezer.com/us/album/181859512
+        pandora:
+        soundcloud:
+        spotify: https://open.spotify.com/album/2MtCLAA8o7WZ7harTOnqO6
+        tidal: https://listen.tidal.com/album/159833435
+        youtube:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_mwFiLWNiRvvFQVK8N0RTT0_0Ulag8sgfc
+    - id: destination
+      name: Destination - single
+      date: 2020
+      url:
+      image: destination.jpg
+      outlets:
+        amazonmusic: https://www.amazon.com/music/player/albums/B08NC1QX36
+        applemusic: https://music.apple.com/us/album/destination-single/1537338201
+        bandcamp:
+        deezer: https://www.deezer.com/us/album/181902382
+        pandora:
+        soundcloud:
+        spotify: https://open.spotify.com/album/4mGHrHIcSWaEoTbdP02F77
+        tidal: https://listen.tidal.com/album/159847059
+        youtube:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_mG1rG3S6O2n66B9Jo9xOqXNXiF-BAMPFo
+- id: roxanne
+  name: Roxanne
+  genre: R&amp;B, Soul, Pop
+  logo: roxanne-logo-black.svg
+  image:
+  bio:
+  sites:
+    amazonmusic: https://amazon.com/music/player/artists/B073R6QZQ2/roxanne-sciarrone
+    applemusic: https://music.apple.com/us/artist/roxanne-sciarrone/1552722214
+    bandcamp:
+    deezer: https://www.deezer.com/us/artist/12775119
+    spotify: https://open.spotify.com/artist/4bAIUNVYiuY3uvIQJmhRFI
+    tidal: https://tidal.com/browse/artist/20886854
+  releases:
+    # - id:
+    #   name:
+    #   date:
+    #   url:
+    #   image:
+    #   outlets:
+    #     amazonmusic:
+    #     applemusic:
+    #     bandcamp:
+    #     deezer:
+    #     pandora:
+    #     soundcloud:
+    #     spotify:
+    #     tidal:
+    #     youtube:
+    #     youtubemusic:
+    - id: i-love-blue
+      name: I Love Blue
+      date: 2002
+      url:
+      image: i-love-blue.jpg
+      outlets:
+        amazonmusic: https://amazon.com/music/player/albums/B08W5J31KR
+        applemusic: https://music.apple.com/us/album/i-love-blue/1552738441
+        bandcamp:
+        deezer: https://www.deezer.com/us/album/206132562
+        pandora:
+        soundcloud:
+        spotify: https://open.spotify.com/album/1kgued9QkpFK0UhEJPhbxj
+        tidal: https://listen.tidal.com/album/172830841
+        youtube:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_mRNs0hjsNa-eEVN1lbmTqOJW2YGCpdqtc
+- id: train-engineers
+  name: The Train Engineers
+  genre: Reggae, Roots, Dub
+  logo: train-engineers-logo-black.svg
+  image:
+  bio: The Train Engineers are a reggae group that delivers an authentic roots reggae sound with inventive instrumental and melodic arrangements that create a unique vibe all its own. Well seasoned reggae for the seasoned reggae fan.
+  sites:
+    amazonmusic: https://amazon.com/music/player/artists/B0B33VDLCZ/the-train-engineers
+    applemusic: https://artists.apple.com/a/artist/1627677463
+    bandcamp: https://trainengineers.bandcamp.com
+    deezer: https://www.deezer.com/us/artist/172192397
+    pandora: https://www.pandora.com/artist/the-train-engineers/ARmKbckKn2K5K6c
+    spotify: https://open.spotify.com/artist/1qKYYnDdG6h9YXWNPA1ETO
+    tidal: https://tidal.com/browse/artist/32491636
+    youtubemusic: https://music.youtube.com/channel/UCc7Nrs_mDNehcxZ8KjuL6Ag
+  releases:
+    # - id:
+    #   name:
+    #   date:
+    #   url:
+    #   image:
+    #   outlets:
+    #     amazonmusic:
+    #     applemusic:
+    #     bandcamp:
+    #     deezer:
+    #     pandora:
+    #     soundcloud:
+    #     spotify:
+    #     tidal:
+    #     youtube:
+    #     youtubemusic:
+    - id: tribute-to-the-i
+      name: Tribute to the I
+      date: 2022-07-25
+      url: https://trainengineers.bandcamp.com/album/tribute-to-the-i
+      image: tribute-to-the-i.jpg
+      # outlets:
+      #   amazonmusic:
+      #   applemusic:
+      #   bandcamp:
+      #   deezer:
+      #   pandora:
+      #   soundcloud:
+      #   spotify:
+      #   tidal:
+      #   youtube:
+      #   youtubemusic:
+    - id: next-stop-matters
+      name: Next Stop Matters
+      date: 2022-06-27
+      url: https://trainengineers.bandcamp.com/album/next-stop-matters
+      image: next-stop-matters.jpg
+      outlets:
+        amazonmusic:
+        applemusic:
+        bandcamp: https://trainengineers.bandcamp.com/album/next-stop-matters
+        deezer:
+        pandora:
+        soundcloud:
+        spotify:
+        tidal:
+        youtube:
+        youtubemusic:
+    - id: off-the-rails
+      name: Off the Rails
+      date: 2022-06-03
+      url: https://trainengineers.bandcamp.com/album/off-the-rails
+      image: off-the-rails.jpg
+      outlets:
+        amazonmusic: https://amazon.com/music/player/albums/B0B341KCXG
+        applemusic: https://geo.music.apple.com/album/off-the-rails/1627678047
+        bandcamp: https://trainengineers.bandcamp.com/album/off-the-rails
+        deezer: https://www.deezer.com/album/324276477
+        pandora: https://www.pandora.com/artist/the-train-engineers/off-the-rails/ALcJ46zZjhhbv36
+        soundcloud:
+        spotify: https://open.spotify.com/album/4c16M3dfSGlS6gN6oAQEPt
+        tidal: http://listen.tidalhifi.com/album/232102707
+        youtube:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_kQgyKfmi5F9OxNPX_Q2PKMC5ExRC0Eddg

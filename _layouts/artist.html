@@ -1,0 +1,75 @@
+---
+layout: default
+---
+
+{% if site.data.artists %}
+  {% for dartist in site.data.artists %}
+    {% if dartist.id == page.id %}
+      {% assign artist = dartist %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+{% if artist.name %}
+{% capture artist_logo %}/images/artists/{{ artist.id }}/{{ artist.logo }}{% endcapture %}
+<section class="py-5 text-center container">
+  <div class="row">
+    <div class="mx-auto">
+      <h1><img class="d-block mx-auto mb-3" src="{{ artist_logo | prepend: site.baseurl }}" alt="{{ artist.name }}" width="100%" height="160" style="max-width:800px;margin:auto"></h1>
+      {% if artist.genre %}<p class="lead text-muted">{{ artist.genre }}</p>{% endif %}
+      {% if artist.bio %}<p class="text-muted" style="max-width:600px;margin:auto">{{ artist.bio }}</p>{% endif %}
+      {% if artist.sites %}
+      <nav class="nav nav-pills justify-content-center">
+        {% for outlet in site.data.outlets %}
+        {% assign artist_site = artist.sites[outlet.id] %}
+        {% if artist_site %}
+        <a class="nav-link" href="{{ artist_site }}" style="color:{{ outlet.color }}">
+          <img src="{{ outlet.logo | prepend: site.baseurl }}" alt="" height="16">&nbsp;{{ outlet.name }}
+        </a>
+        {% endif %}
+        {% endfor %}
+      </nav>
+      {% endif %}
+    </div>
+  </div>
+</section>
+
+{% if artist.releases %}
+<section class="album py-3 container">
+  <h2 class="display-6 text-center">Releases</h2>
+  <hr>
+  <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 row-cols-xl-4 g-3 justify-content-center">
+
+    {% for release in artist.releases %}
+    {% if release.name %}
+    {% if release.image %}{% capture release_image %}/images/artists/{{ artist.id }}/{{ release.image }}{% endcapture %}{% endif %}
+    <div class="col">
+      <div class="card border-0 text-center" id="{{ release.id }}">
+        {% if release_image %}{% if release.url %}<a href="{{ release.url }}">{% endif %}<img class="card-img-top" src="{{ release_image | prepend: site.baseurl }}" alt="{{ release.name }} by {{ artist.name }}" width="100%" height="100%" style="margin-top:10px;margin-bottom:0">{% if release.url %}</a>{% endif %}{% endif %}
+        <div class="card-body">
+          <h3 class="card-title">{{ release.name }}</h3>
+          {% if release.date %}<p class="card-text text-muted font-monospace"><small>{{ release.date }}</small></p>{% endif %}
+          {% if release.outlets %}
+          <p class="card-text border-bottom"><em>Available on:</em></p>
+          <nav class="nav flex-column nav-pills">
+            {% for outlet in site.data.outlets %}
+            {% assign release_outlet = release.outlets[outlet.id] %}
+            {% if release_outlet %}
+            <a class="nav-link" href="{{ release_outlet }}" style="color:{{ outlet.color }}">
+              <img src="{{ outlet.logo | prepend: site.baseurl }}" alt="" height="16">&nbsp;&nbsp;{{ outlet.name }}
+            </a>
+            {% endif %}
+            {% endfor %}
+          </nav>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+
+  </div>
+</section>
+{% endif %}
+
+{% endif %}

@@ -1,0 +1,111 @@
+# Jekyll Configuration (https://jekyllrb.com/docs/configuration/default/)
+
+# Site settings
+title: Ill Famiglia Music
+# email:
+description: > # this means to ignore newlines until next "<key>:"
+  Small family. Big music.
+url: "https://illfamiglia.github.io" # the base hostname & protocol for your site
+repository: illfamiglia/illfamiglia.github.io
+
+# Where things are
+source              : .
+destination         : ./_site
+collections_dir     : .
+plugins_dir         : _plugins # takes an array of strings and loads plugins in that order
+layouts_dir         : _layouts
+data_dir            : _data
+includes_dir        : _includes
+sass:
+  sass_dir: _sass
+collections:
+  posts:
+    output          : true
+
+# Handling Reading
+safe                : false
+include:
+  - .htaccess
+exclude:
+  - ".editorconfig"
+  - ".env"
+  - ".env.*"
+  - ".github"
+  - ".vscode"
+  - "*.sublime-*"
+  - CODEOWNERS
+  - CONTRIBUTING.md
+  - docker-compose.yml
+  - Dockerfile
+  - Dockerfile.*
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - node_modules
+  - package-lock.json
+  - package.json
+  - README.md
+  - vendor
+keep_files          : [".git", ".svn"]
+encoding            : "UTF-8"
+markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
+strict_front_matter : false
+
+# Filtering Content
+show_drafts         : false
+limit_posts         : 0
+future              : false
+unpublished         : false
+
+# Plugins
+whitelist:
+  - jekyll-github-metadata
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jemoji
+plugins:
+  - jekyll-github-metadata
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jemoji
+
+# Conversion
+markdown            : kramdown
+highlighter         : rouge
+lsi                 : false
+excerpt_separator   : "\n\n"
+incremental         : false
+
+# Serving
+detach              : false
+port                : 4000
+host                : 127.0.0.1
+baseurl             : "" # does not include hostname
+show_dir_listing    : false
+
+# Outputting
+permalink           : /posts/:slug-:short_year:y_day/ ### <~{ date | pretty | ... }
+paginate_path       : /blog/page:num/
+timezone            : America/New_York
+
+quiet               : false
+verbose             : false
+defaults            : []
+
+liquid:
+  error_mode        : warn
+  strict_filters    : false
+  strict_variables  : false
+
+# Markdown Processors
+kramdown:
+  auto_ids          : true
+  entity_output     : as_char
+  toc_levels        : [1, 2, 3, 4, 5, 6]
+  smart_quotes      : lsquo,rsquo,ldquo,rdquo
+  input             : GFM
+  hard_wrap         : false
+  footnote_nr       : 1
+  show_warnings     : false

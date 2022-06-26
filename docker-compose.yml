@@ -1,0 +1,23 @@
+version: '3'
+services:
+  jekyll:
+    image: jekyll/jekyll:3.8
+    container_name: illfamiglia.github.io
+    env_file:
+      - ./.env
+    ports:
+      - "4000:4000"
+    volumes:
+      - ./:/srv/jekyll:Z
+      - ./vendor/bundle:/usr/local/bundle:Z
+      - ./vendor/gem-cache:/usr/gem/cache/bundle:Z
+    command: jekyll serve --watch --force_polling -H 0.0.0.0 -P 4000
+    tty: true
+    labels:
+      com.illfamiglia.website.description: "Ill Famgilia Website"
+      com.illfamiglia.website.domain: "illfamgilia.com"
+      com.illfamiglia.website.owner: "@illfamgilia"
+      com.illfamiglia.website.creator: "@seantrane"
+      com.illfamiglia.website.origin: "https://github.com/illfamiglia/illfamiglia.github.io"
+      com.illfamiglia.website.support: "https://github.com/illfamiglia/illfamiglia.github.io/#readme"
+      com.illfamiglia.website.issues: "https://github.com/illfamiglia/illfamiglia.github.io/issues"
