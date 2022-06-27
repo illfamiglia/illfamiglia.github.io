@@ -75,32 +75,32 @@
       url: https://illfam.bandcamp.com/album/you-feeling-self-ep
       image: you-feeling-self.jpg
       outlets:
-        amazonmusic:
-        applemusic:
+        amazonmusic: https://music.amazon.com/albums/B0B4PBXVD9
+        applemusic: https://geo.music.apple.com/album/you-feeling-self-ep/1629535508
         bandcamp: https://illfam.bandcamp.com/album/you-feeling-self-ep
-        deezer:
-        pandora:
+        deezer: https://www.deezer.com/album/327171337
+        pandora: https://www.pandora.com/artist/ill-fam/you-feeling-self-single/ALJw6rvrXrVmr4V
         soundcloud:
-        spotify:
-        tidal:
+        spotify: https://open.spotify.com/album/70MhjHM0sxHFi1gEyaVijN
+        tidal: http://www.tidal.com/album/233522284
         youtube:
-        youtubemusic:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_nXL5CR52cIuPdC-h9MNCVU52Y6K_4yCNE
     - id: anxietol
       name: Anxietol
       date: 2022-06-27
       url: https://illfam.bandcamp.com/album/anxietol
       image: anxietol.jpg
       outlets:
-        amazonmusic:
-        applemusic:
+        amazonmusic: https://music.amazon.com/albums/B0B3NGXRNC
+        applemusic: https://geo.music.apple.com/album/anxietol/1628913735
         bandcamp: https://illfam.bandcamp.com/album/anxietol
-        deezer:
-        pandora:
+        deezer: https://www.deezer.com/album/326105657
+        pandora: https://www.pandora.com/artist/ill-fam/anxietol/AL2PPrcZg2df5ZK
         soundcloud:
-        spotify:
-        tidal:
+        spotify: https://open.spotify.com/album/2bHbHOGMwnINi78oNUUgnF
+        tidal: http://www.tidal.com/album/232959690
         youtube:
-        youtubemusic:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_nyArpCEXaq_TEZN1jreW8rzTn7dUQ-ZLw
     - id: fly-a-way
       name: Fly a Way
       date: 2022-06-03
@@ -458,16 +458,16 @@
       url: https://trainengineers.bandcamp.com/album/next-stop-matters
       image: next-stop-matters.jpg
       outlets:
-        amazonmusic:
-        applemusic:
+        amazonmusic: https://music.amazon.com/albums/B0B3NDMY8N
+        applemusic: https://geo.music.apple.com/album/next-stop-matters/1628911887
         bandcamp: https://trainengineers.bandcamp.com/album/next-stop-matters
-        deezer:
-        pandora:
+        deezer: https://www.deezer.com/album/326091367
+        pandora: https://www.pandora.com/artist/the-train-engineers/next-stop-matters/ALgfPh2j5dc3db2
         soundcloud:
-        spotify:
-        tidal:
+        spotify: https://open.spotify.com/album/6g0Xff8z6pA4aCOgW31Idc
+        tidal: http://www.tidal.com/album/232959665
         youtube:
-        youtubemusic:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_k5yDc9Ma0TiRQCueZeUju1zpK92oMYcBM
     - id: off-the-rails
       name: Off the Rails
       date: 2022-06-03
