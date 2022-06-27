@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "./**/*.html": "jekyll",
+    "./*.md": "jekyll",
+    "./CONTRIBUTING.md": "markdown",
+    "./README.md": "markdown"
+  }
+}
