@@ -5,7 +5,7 @@ title: Ill Famiglia Music
 # email:
 description: > # this means to ignore newlines until next "<key>:"
   Small family. Big music.
-url: "https://illfamiglia.github.io" # the base hostname & protocol for your site
+url: "https://illfamiglia.com" # the base hostname & protocol for your site
 repository: illfamiglia/illfamiglia.github.io
 
 # Where things are
