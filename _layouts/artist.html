@@ -2,14 +2,14 @@
 layout: default
 ---
 
-{% if site.data.artists %}
-  {% for dartist in site.data.artists %}
-    {% if dartist.id == page.id %}
-      {% assign artist = dartist %}
-      {% break %}
-    {% endif %}
-  {% endfor %}
-{% endif %}
+{%- if site.data.artists -%}
+  {%- for dartist in site.data.artists -%}
+    {%- if dartist.id == page.id -%}
+      {%- assign artist = dartist -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
 
 {%- if artist.name -%}
 {%- capture artist_logo %}/images/artists/{{ artist.id }}/{{ artist.logo }}{% endcapture %}
