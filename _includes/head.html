@@ -51,14 +51,14 @@
   <meta name="twitter:site" content="@illfamiglia">{% endcomment %}
 
   {% assign theme_color = '#ffffff' %}
-  <link rel="icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}">
-  <link rel="icon" type="image/png" sizes="96x96" href="{{ "/favicon-96x96.png" | prepend: site.baseurl }}">
-  <link rel="icon" type="image/png" sizes="32x32" href="{{ "/favicon-32x32.png" | prepend: site.baseurl }}">
-  <link rel="icon" type="image/png" sizes="16x16" href="{{ "/favicon-16x16.png" | prepend: site.baseurl }}">
-  <link rel="manifest" href="{{ "/manifest.json" | prepend: site.baseurl }}">
+  <link rel="icon" type="image/x-icon" href="{{ "/favicon.ico" | relative_url }}">
   <link rel="apple-touch-icon" href="{{ apple_touch_icon | relative_url }}">
+  <link rel="icon" type="image/png" sizes="96x96" href="{{ "/favicon-96x96.png" | relative_url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ "/favicon-32x32.png" | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ "/favicon-16x16.png" | relative_url }}">
+  <link rel="manifest" href="{{ "/manifest.json" | relative_url }}">
   <meta name="msapplication-TileColor" content="{{ theme_color }}">
-  <meta name="msapplication-TileImage" content="{{ "/ms-icon-144x144.png" | prepend: site.baseurl }}">
+  <meta name="msapplication-TileImage" content="{{ "/ms-icon-144x144.png" | relative_url }}">
   <meta name="theme-color" content="{{ theme_color }}">
 
 </head>
