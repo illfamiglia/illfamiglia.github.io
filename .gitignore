@@ -89,3 +89,4 @@ bower_components
 build/Release
 lib-cov
 node_modules
+!/images/icons
