@@ -14,10 +14,11 @@
     {%- for dartist in site.data.artists -%}
       {%- if dartist.id == page.id -%}
         {%- capture html_title %}{{ dartist.name }} - {{ site.title }}{% endcapture -%}
+        {%- capture html_description %}{{ dartist.genre }}.{% endcapture -%}
         {%- capture html_image %}/images/artists/{{ dartist.id }}/{{ dartist.logo }}{% endcapture %}
         {%- capture html_url %}/{{ dartist.id }}{% endcapture %}
         {%- if dartist.bio -%}
-          {%- capture html_description %}{{ dartist.bio | strip }}{% endcapture %}
+          {%- capture html_description %}{{ html_description }} {{ dartist.bio | strip }}{% endcapture %}
         {%- endif -%}
         {%- capture html_keywords %}{{ dartist.name }}, {{ dartist.genre }}, {{ site.title }}, illfamiglia{% endcapture %}
         {%- capture apple_touch_icon %}{{ html_image }}{% endcapture -%}
