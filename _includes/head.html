@@ -9,6 +9,7 @@
   {%- capture html_keywords %}{{ site.title }}, illfamiglia{% endcapture %}
   {%- capture html_image %}/images/ill-famiglia-logo-black.svg{% endcapture %}
   {%- capture html_url %}/{% endcapture -%}
+  {%- capture apple_touch_icon %}/apple-icon.png{% endcapture -%}
   {%- if site.data.artists -%}
     {%- for dartist in site.data.artists -%}
       {%- if dartist.id == page.id -%}
@@ -19,6 +20,7 @@
           {%- capture html_description %}{{ dartist.bio | strip }}{% endcapture %}
         {%- endif -%}
         {%- capture html_keywords %}{{ dartist.name }}, {{ dartist.genre }}, {{ site.title }}, illfamiglia{% endcapture %}
+        {%- capture apple_touch_icon %}{{ html_image }}{% endcapture -%}
         {% break %}
       {%- else -%}
         {%- capture html_keywords %}{{ html_keywords }}, {{ dartist.name }}{% endcapture %}
@@ -49,11 +51,11 @@
 
   {% assign theme_color = '#ffffff' %}
   <link rel="icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}">
-  <link rel="apple-touch-icon" href="{{ "/apple-icon.png" | prepend: site.baseurl }}">
   <link rel="icon" type="image/png" sizes="96x96" href="{{ "/favicon-96x96.png" | prepend: site.baseurl }}">
   <link rel="icon" type="image/png" sizes="32x32" href="{{ "/favicon-32x32.png" | prepend: site.baseurl }}">
   <link rel="icon" type="image/png" sizes="16x16" href="{{ "/favicon-16x16.png" | prepend: site.baseurl }}">
   <link rel="manifest" href="{{ "/manifest.json" | prepend: site.baseurl }}">
+  <link rel="apple-touch-icon" href="{{ apple_touch_icon | relative_url }}">
   <meta name="msapplication-TileColor" content="{{ theme_color }}">
   <meta name="msapplication-TileImage" content="{{ "/ms-icon-144x144.png" | prepend: site.baseurl }}">
   <meta name="theme-color" content="{{ theme_color }}">
