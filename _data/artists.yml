@@ -56,6 +56,7 @@
     # - id:
     #   name:
     #   date:
+    #   genre:
     #   url:
     #   image:
     #   outlets:
@@ -69,9 +70,61 @@
     #     tidal:
     #     youtube:
     #     youtubemusic:
+    - id: rock-hop
+      name: Rock Hop
+      date: 2022-10-19
+      genre: Rock, Progressive Rock
+      url: https://illfam.bandcamp.com/album/rock-hop
+      image: rock-hop.jpg
+      outlets:
+        amazonmusic: https://music.amazon.com/albums/B0BJQT9P5K
+        applemusic:
+        bandcamp: https://illfam.bandcamp.com/album/rock-hop
+        deezer: https://www.deezer.com/album/367829607
+        pandora:
+        soundcloud:
+        spotify:
+        tidal: http://www.tidal.com/album/255128502
+        youtube:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_m9kQVcgI_iAcKCdgsUC1gHHL4Xrnk4WNU
+    - id: bibim-bop
+      name: Bibim Bop
+      date: 2022-10-18
+      genre: R&B/Soul, Funk
+      url: https://illfam.bandcamp.com/album/bibim-bop
+      image: bibim-bop.jpg
+      outlets:
+        amazonmusic: https://music.amazon.com/albums/B0BJLBWS35
+        applemusic: https://geo.music.apple.com/album/bibim-bop/1650427745
+        bandcamp: https://illfam.bandcamp.com/album/bibim-bop
+        deezer: https://www.deezer.com/album/367403717
+        pandora: https://www.pandora.com/artist/ill-fam/bibim-bop/ALwh23vmZcc5PbZ
+        soundcloud:
+        spotify: https://open.spotify.com/album/7wF9UUFEXpKsPELOppdy9B
+        tidal: http://www.tidal.com/album/254886988
+        youtube:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_mvMIMqMBO4KczixzoM6mEMkPdmd3dRGvU
+    - id: ripple-affect
+      name: Ripple Affect
+      date: 2022-10-14
+      genre: R&B/Soul, Contemporary R&B
+      url: https://illfam.bandcamp.com/album/ripple-affect
+      image: ripple-affect.jpg
+      outlets:
+        amazonmusic: https://music.amazon.com/albums/B0BJ7W9339
+        applemusic: https://geo.music.apple.com/album/ripple-affect/1649998597
+        bandcamp: https://illfam.bandcamp.com/album/ripple-affect
+        deezer: https://www.deezer.com/album/366394187
+        pandora: https://www.pandora.com/artist/ill-fam/ripple-affect/ALck3fXdnwlrgq2
+        soundcloud:
+        spotify: https://open.spotify.com/album/7wLSh253V30nUdfR52ZwWt
+        tidal: http://www.tidal.com/album/254211223
+        youtube:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_n7xIDwvoVJj4zQFLw1IO2n4qLYDOTWWqw
     - id: you-feeling-self
       name: You Feeling Self? - EP
       date: 2022-06-27
+      genre: Electronic - Hip-Hop / R&B
       url: https://illfam.bandcamp.com/album/you-feeling-self-ep
       image: you-feeling-self.jpg
       outlets:
@@ -88,6 +141,7 @@
     - id: anxietol
       name: Anxietol
       date: 2022-06-27
+      genre: Electronic - Hip-Hop / R&B
       url: https://illfam.bandcamp.com/album/anxietol
       image: anxietol.jpg
       outlets:
@@ -104,6 +158,7 @@
     - id: fly-a-way
       name: Fly a Way
       date: 2022-06-03
+      genre: R&B/Hip-Hop / Electronica
       url: https://illfam.bandcamp.com/album/fly-a-way
       image: fly-a-way.jpg
       outlets:
@@ -436,22 +491,22 @@
     #     tidal:
     #     youtube:
     #     youtubemusic:
-    - id: tribute-to-the-i
-      name: Tribute to the I
-      date: 2022-07-25
-      url: https://trainengineers.bandcamp.com/album/tribute-to-the-i
-      image: tribute-to-the-i.jpg
-      # outlets:
-      #   amazonmusic:
-      #   applemusic:
-      #   bandcamp:
-      #   deezer:
-      #   pandora:
-      #   soundcloud:
-      #   spotify:
-      #   tidal:
-      #   youtube:
-      #   youtubemusic:
+    # - id: tribute-to-the-i
+    #   name: Tribute to the I
+    #   date: 2022-?
+    #   url: https://trainengineers.bandcamp.com/album/tribute-to-the-i
+    #   image: tribute-to-the-i.jpg
+    #   outlets:
+    #     amazonmusic:
+    #     applemusic:
+    #     bandcamp: https://trainengineers.bandcamp.com/album/tribute-to-the-i
+    #     deezer:
+    #     pandora:
+    #     soundcloud:
+    #     spotify:
+    #     tidal:
+    #     youtube:
+    #     youtubemusic:
     - id: next-stop-matters
       name: Next Stop Matters
       date: 2022-06-27

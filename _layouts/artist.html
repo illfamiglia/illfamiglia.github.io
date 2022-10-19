@@ -49,7 +49,10 @@ layout: default
         {% if release_image %}{% if release.url %}<a href="{{ release.url }}">{% endif %}<img class="card-img-top" src="{{ release_image | relative_url }}" alt="{{ release.name }} by {{ artist.name }}" width="100%" height="100%" style="margin-top:10px;margin-bottom:0">{% if release.url %}</a>{% endif %}{% endif %}
         <div class="card-body">
           <h3 class="card-title">{{ release.name }}</h3>
-          {% if release.date %}<p class="card-text text-muted font-monospace"><small>{{ release.date }}</small></p>{% endif %}
+          <p class="card-text text-muted"><small>
+          {% if release.date %}<span class="text-monospace">{{ release.date }}</span>{% endif %}
+          {% if release.genre %}<br><em>{{ release.genre }}</em>{% endif %}
+          </small></p>
           {% if release.outlets %}
           <p class="card-text border-bottom"><em>Available on:</em></p>
           <nav class="nav flex-column nav-pills">
