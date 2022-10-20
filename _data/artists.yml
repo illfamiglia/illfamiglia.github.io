@@ -78,12 +78,12 @@
       image: rock-hop.jpg
       outlets:
         amazonmusic: https://music.amazon.com/albums/B0BJQT9P5K
-        applemusic:
+        applemusic: https://geo.music.apple.com/album/rock-hop/1650598616
         bandcamp: https://illfam.bandcamp.com/album/rock-hop
         deezer: https://www.deezer.com/album/367829607
         pandora:
         soundcloud:
-        spotify:
+        spotify: https://open.spotify.com/album/1C4xAx7gUYydKVIA9nWKzz
         tidal: http://www.tidal.com/album/255128502
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_m9kQVcgI_iAcKCdgsUC1gHHL4Xrnk4WNU
