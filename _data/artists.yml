@@ -39,7 +39,7 @@
 
 - id: ill-fam
   name: Ill Fam
-  genre: R&amp;B/Hip-Hop, Jazz &amp; Funk, Rock, Instrumental
+  genre: Hip-Hop, R&B, Jazz, Funk, Rock, Instrumental
   logo: ill-fam-logo-black.svg
   image:
   bio: Ill Fam is a music composer and producer, with a focus on Hip-Hop, Reggae and Rock. Influenced by Jazz, Blues, Soul, and Classical music, it's rare to listen to Ill Fam's work and not be reminded of other musical genres. This challenges one to pin a song to any specific genre.
@@ -70,6 +70,23 @@
     #     tidal:
     #     youtube:
     #     youtubemusic:
+    - id: psychedelibop
+      name: Psychedelibop
+      date: 2022-10-25
+      genre: Electronic, Hip-Hop/R&B
+      url: https://illfam.bandcamp.com/album/psychedelibop
+      image: psychedelibop.jpg
+      outlets:
+        amazonmusic:
+        applemusic:
+        bandcamp: https://illfam.bandcamp.com/album/psychedelibop
+        deezer: https://www.deezer.com/album/369718127
+        pandora:
+        soundcloud:
+        spotify:
+        tidal: http://www.tidal.com/album/256274009
+        youtube:
+        youtubemusic:
     - id: rock-hop
       name: Rock Hop
       date: 2022-10-19
@@ -124,7 +141,7 @@
     - id: you-feeling-self
       name: You Feeling Self? - EP
       date: 2022-06-27
-      genre: Electronic - Hip-Hop / R&B
+      genre: Electronic, Hip-Hop/R&B
       url: https://illfam.bandcamp.com/album/you-feeling-self-ep
       image: you-feeling-self.jpg
       outlets:
@@ -141,7 +158,7 @@
     - id: anxietol
       name: Anxietol
       date: 2022-06-27
-      genre: Electronic - Hip-Hop / R&B
+      genre: Electronic, Hip-Hop/R&B
       url: https://illfam.bandcamp.com/album/anxietol
       image: anxietol.jpg
       outlets:
@@ -158,7 +175,7 @@
     - id: fly-a-way
       name: Fly a Way
       date: 2022-06-03
-      genre: R&B/Hip-Hop / Electronica
+      genre: Hip-Hop/R&B / Electronica
       url: https://illfam.bandcamp.com/album/fly-a-way
       image: fly-a-way.jpg
       outlets:
