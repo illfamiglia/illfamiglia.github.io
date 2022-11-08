@@ -77,16 +77,16 @@
       url: https://illfam.bandcamp.com/album/psychedelibop
       image: psychedelibop.jpg
       outlets:
-        amazonmusic:
-        applemusic:
+        amazonmusic: https://geo.music.apple.com/album/psychedelibop/1651462620
+        applemusic: https://geo.music.apple.com/album/psychedelibop/1651462620
         bandcamp: https://illfam.bandcamp.com/album/psychedelibop
         deezer: https://www.deezer.com/album/369718127
         pandora:
         soundcloud:
-        spotify:
+        spotify: https://open.spotify.com/album/5WwKzb3qXWctWsPlyEkO7t
         tidal: http://www.tidal.com/album/256274009
         youtube:
-        youtubemusic:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_lzarIptvQWM1S8ndryqplbqSA5tdkQw9Q
     - id: rock-hop
       name: Rock Hop
       date: 2022-10-19
