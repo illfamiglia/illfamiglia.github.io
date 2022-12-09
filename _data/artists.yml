@@ -44,8 +44,8 @@
   image:
   bio: Ill Fam is a music composer and producer, with a focus on Hip-Hop, Reggae and Rock. Influenced by Jazz, Blues, Soul, and Classical music, it's rare to listen to Ill Fam's work and not be reminded of other musical genres. This challenges one to pin a song to any specific genre.
   sites:
-    amazonmusic: https://amazon.com/music/player/artists/B0B345MW84/ill-fam
-    applemusic: https://artists.apple.com/a/artist/1627678049
+    amazonmusic: https://music.amazon.com/artists/B0B345MW84/ill-fam
+    applemusic: https://music.apple.com/us/artist/ill-fam/1627678049
     bandcamp: https://illfam.bandcamp.com
     deezer: https://www.deezer.com/us/artist/172192417
     pandora: https://www.pandora.com/artist/ill-fam/ARdgcPthdh34Jdk
@@ -94,14 +94,14 @@
       url: https://illfam.bandcamp.com/album/jazzy-funk-hop
       image: jazzy-funk-hop.jpg
       outlets:
-        amazonmusic:
-        applemusic:
+        amazonmusic: https://music.amazon.com/albums/B0BPMMYPK2
+        applemusic: https://music.apple.com/us/album/jazzy-funk-hop/1659032615
         bandcamp: https://illfam.bandcamp.com/album/jazzy-funk-hop
-        deezer:
-        pandora:
+        deezer: https://www.deezer.com/album/385177817
+        pandora: https://www.pandora.com/artist/ill-fam/jazzy-funk-hop/ALKqPqfn2zgK3Xg
         soundcloud:
         spotify:
-        tidal:
+        tidal: https://tidal.com/album/265475785
         youtube:
         youtubemusic:
     - id: psychedelibop
@@ -111,11 +111,11 @@
       url: https://illfam.bandcamp.com/album/psychedelibop
       image: psychedelibop.jpg
       outlets:
-        amazonmusic: https://geo.music.apple.com/album/psychedelibop/1651462620
+        amazonmusic: https://music.amazon.com/albums/B0BKHRY4F6
         applemusic: https://geo.music.apple.com/album/psychedelibop/1651462620
         bandcamp: https://illfam.bandcamp.com/album/psychedelibop
         deezer: https://www.deezer.com/album/369718127
-        pandora:
+        pandora: https://www.pandora.com/artist/ill-fam/psychedelibop/ALb4rk5g2dcf9g4
         soundcloud:
         spotify: https://open.spotify.com/album/5WwKzb3qXWctWsPlyEkO7t
         tidal: http://www.tidal.com/album/256274009
