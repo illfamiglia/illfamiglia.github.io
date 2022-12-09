@@ -70,6 +70,40 @@
     #     tidal:
     #     youtube:
     #     youtubemusic:
+    # - id: far-afield
+    #   name: Far Afield
+    #   date: 2022-12-12
+    #   genre: R&B/Soul, Contemporary R&B
+    #   url: https://illfam.bandcamp.com/album/far-afield
+    #   image: far-afield.jpg
+    #   outlets:
+    #     amazonmusic:
+    #     applemusic:
+    #     bandcamp: https://illfam.bandcamp.com/album/far-afield
+    #     deezer:
+    #     pandora:
+    #     soundcloud:
+    #     spotify:
+    #     tidal:
+    #     youtube:
+    #     youtubemusic:
+    - id: jazzy-funk-hop
+      name: Jazzy Funk Hop
+      date: 2022-12-09
+      genre: R&B/Soul, Funk
+      url: https://illfam.bandcamp.com/album/jazzy-funk-hop
+      image: jazzy-funk-hop.jpg
+      outlets:
+        amazonmusic:
+        applemusic:
+        bandcamp: https://illfam.bandcamp.com/album/jazzy-funk-hop
+        deezer:
+        pandora:
+        soundcloud:
+        spotify:
+        tidal:
+        youtube:
+        youtubemusic:
     - id: psychedelibop
       name: Psychedelibop
       date: 2022-10-25
