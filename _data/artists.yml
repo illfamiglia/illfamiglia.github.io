@@ -70,23 +70,23 @@
     #     tidal:
     #     youtube:
     #     youtubemusic:
-    # - id: far-afield
-    #   name: Far Afield
-    #   date: 2022-12-12
-    #   genre: R&B/Soul, Contemporary R&B
-    #   url: https://illfam.bandcamp.com/album/far-afield
-    #   image: far-afield.jpg
-    #   outlets:
-    #     amazonmusic:
-    #     applemusic:
-    #     bandcamp: https://illfam.bandcamp.com/album/far-afield
-    #     deezer:
-    #     pandora:
-    #     soundcloud:
-    #     spotify:
-    #     tidal:
-    #     youtube:
-    #     youtubemusic:
+    - id: far-afield
+      name: Far Afield
+      date: 2022-12-12
+      genre: R&B/Soul, Contemporary R&B
+      url: https://illfam.bandcamp.com/album/far-afield
+      image: far-afield.jpg
+      outlets:
+        amazonmusic:
+        applemusic:
+        bandcamp: https://illfam.bandcamp.com/album/far-afield
+        deezer:
+        pandora:
+        soundcloud:
+        spotify:
+        tidal:
+        youtube:
+        youtubemusic:
     - id: jazzy-funk-hop
       name: Jazzy Funk Hop
       date: 2022-12-09
@@ -100,7 +100,7 @@
         deezer: https://www.deezer.com/album/385177817
         pandora: https://www.pandora.com/artist/ill-fam/jazzy-funk-hop/ALKqPqfn2zgK3Xg
         soundcloud:
-        spotify:
+        spotify: https://open.spotify.com/album/3xViJs3IYYt2WQdeUK43nl
         tidal: https://tidal.com/album/265475785
         youtube:
         youtubemusic:
