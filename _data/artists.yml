@@ -77,16 +77,16 @@
       url: https://illfam.bandcamp.com/album/far-afield
       image: far-afield.jpg
       outlets:
-        amazonmusic:
-        applemusic:
+        amazonmusic: https://music.amazon.com/albums/B0BPVC19KN
+        applemusic: https://music.apple.com/album/far-afield/1659538364
         bandcamp: https://illfam.bandcamp.com/album/far-afield
-        deezer:
-        pandora:
+        deezer: https://www.deezer.com/album/385965807
+        pandora: https://www.pandora.com/artist/ill-fam/far-afield/ALhnzqrgc6Xpb5Z
         soundcloud:
-        spotify:
-        tidal:
+        spotify: https://open.spotify.com/album/6npbU3QCpsXqXLV2YE9397
+        tidal: http://www.tidal.com/album/266304759
         youtube:
-        youtubemusic:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_kY9QSb4cpaJdzuxkZFbAr4-dyUCIoMATM
     - id: jazzy-funk-hop
       name: Jazzy Funk Hop
       date: 2022-12-09
@@ -103,7 +103,7 @@
         spotify: https://open.spotify.com/album/3xViJs3IYYt2WQdeUK43nl
         tidal: https://tidal.com/album/265475785
         youtube:
-        youtubemusic:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_nPMVk8Vw4rDF2Z6ozNf0kmPIz22Siouq8
     - id: psychedelibop
       name: Psychedelibop
       date: 2022-10-25
