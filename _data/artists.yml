@@ -70,6 +70,23 @@
     #     tidal:
     #     youtube:
     #     youtubemusic:
+    - id: plunge-the-depths
+      name: Plunge the Depths
+      date: 2023-10-04
+      genre: Electronic, Hip-Hop/R&B
+      url: https://illfam.bandcamp.com/album/plunge-the-depths
+      image: plunge-the-depths.jpg
+      outlets:
+        amazonmusic:
+        applemusic: https://music.apple.com/album/plunge-the-depths/1710433736
+        bandcamp: https://illfam.bandcamp.com/album/plunge-the-depths
+        deezer: https://www.deezer.com/album/496188261
+        pandora:
+        soundcloud:
+        spotify:
+        tidal:
+        youtube:
+        youtubemusic:
     - id: far-afield
       name: Far Afield
       date: 2022-12-12
