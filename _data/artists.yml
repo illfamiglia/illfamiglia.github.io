@@ -77,14 +77,14 @@
       url: https://illfam.bandcamp.com/album/plunge-the-depths
       image: plunge-the-depths.jpg
       outlets:
-        amazonmusic:
+        amazonmusic: https://music.amazon.com/albums/B0CKGNQHPH
         applemusic: https://music.apple.com/album/plunge-the-depths/1710433736
         bandcamp: https://illfam.bandcamp.com/album/plunge-the-depths
         deezer: https://www.deezer.com/album/496188261
-        pandora:
+        pandora: https://www.pandora.com/artist/ill-fam/plunge-the-depths/AL9qJl7JnvvwtjP
         soundcloud:
-        spotify:
-        tidal:
+        spotify: https://open.spotify.com/album/3tsqruE5nfDfVIbmMrSTgq
+        tidal: http://www.tidal.com/album/319902454
         youtube:
         youtubemusic:
     - id: far-afield
