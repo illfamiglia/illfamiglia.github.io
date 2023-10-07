@@ -86,7 +86,7 @@
         spotify: https://open.spotify.com/album/3tsqruE5nfDfVIbmMrSTgq
         tidal: http://www.tidal.com/album/319902454
         youtube:
-        youtubemusic:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_n7MWgZaroKOOezd1pJAsDX0HSTFT6B_EQ
     - id: far-afield
       name: Far Afield
       date: 2022-12-12
