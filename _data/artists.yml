@@ -70,6 +70,23 @@
     #     tidal:
     #     youtube:
     #     youtubemusic:
+    - id: vocalistics
+      name: Vocalistics
+      date: 2023-10-10
+      genre: Electronic, Hip-Hop/R&B
+      url: https://illfam.bandcamp.com/album/vocalistics
+      image: vocalistics.jpg
+      outlets:
+        amazonmusic:
+        applemusic:
+        bandcamp: https://illfam.bandcamp.com/album/vocalistics
+        deezer:
+        pandora:
+        soundcloud:
+        spotify:
+        tidal:
+        youtube:
+        youtubemusic:
     - id: plunge-the-depths
       name: Plunge the Depths
       date: 2023-10-04
