@@ -77,14 +77,14 @@
       url: https://illfam.bandcamp.com/album/vocalistics
       image: vocalistics.jpg
       outlets:
-        amazonmusic:
-        applemusic:
+        amazonmusic: https://music.amazon.com/albums/B0CKTYQDVW
+        applemusic: https://music.apple.com/album/vocalistics/1711276688
         bandcamp: https://illfam.bandcamp.com/album/vocalistics
-        deezer:
-        pandora:
+        deezer: https://www.deezer.com/album/498469071
+        pandora: https://www.pandora.com/artist/ill-fam/vocalistics/ALZVc2VtKZcnbX6
         soundcloud:
         spotify:
-        tidal:
+        tidal: https://tidal.com/album/320992153
         youtube:
         youtubemusic:
     - id: plunge-the-depths
@@ -101,7 +101,7 @@
         pandora: https://www.pandora.com/artist/ill-fam/plunge-the-depths/AL9qJl7JnvvwtjP
         soundcloud:
         spotify: https://open.spotify.com/album/3tsqruE5nfDfVIbmMrSTgq
-        tidal: http://www.tidal.com/album/319902454
+        tidal: https://tidal.com/album/319902454
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_n7MWgZaroKOOezd1pJAsDX0HSTFT6B_EQ
     - id: far-afield
@@ -118,7 +118,7 @@
         pandora: https://www.pandora.com/artist/ill-fam/far-afield/ALhnzqrgc6Xpb5Z
         soundcloud:
         spotify: https://open.spotify.com/album/6npbU3QCpsXqXLV2YE9397
-        tidal: http://www.tidal.com/album/266304759
+        tidal: https://tidal.com/album/266304759
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_kY9QSb4cpaJdzuxkZFbAr4-dyUCIoMATM
     - id: jazzy-funk-hop
@@ -152,7 +152,7 @@
         pandora: https://www.pandora.com/artist/ill-fam/psychedelibop/ALb4rk5g2dcf9g4
         soundcloud:
         spotify: https://open.spotify.com/album/5WwKzb3qXWctWsPlyEkO7t
-        tidal: http://www.tidal.com/album/256274009
+        tidal: https://tidal.com/album/256274009
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_lzarIptvQWM1S8ndryqplbqSA5tdkQw9Q
     - id: rock-hop
@@ -169,7 +169,7 @@
         pandora:
         soundcloud:
         spotify: https://open.spotify.com/album/1C4xAx7gUYydKVIA9nWKzz
-        tidal: http://www.tidal.com/album/255128502
+        tidal: https://tidal.com/album/255128502
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_m9kQVcgI_iAcKCdgsUC1gHHL4Xrnk4WNU
     - id: bibim-bop
@@ -186,7 +186,7 @@
         pandora: https://www.pandora.com/artist/ill-fam/bibim-bop/ALwh23vmZcc5PbZ
         soundcloud:
         spotify: https://open.spotify.com/album/7wF9UUFEXpKsPELOppdy9B
-        tidal: http://www.tidal.com/album/254886988
+        tidal: https://tidal.com/album/254886988
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_mvMIMqMBO4KczixzoM6mEMkPdmd3dRGvU
     - id: ripple-affect
@@ -203,7 +203,7 @@
         pandora: https://www.pandora.com/artist/ill-fam/ripple-affect/ALck3fXdnwlrgq2
         soundcloud:
         spotify: https://open.spotify.com/album/7wLSh253V30nUdfR52ZwWt
-        tidal: http://www.tidal.com/album/254211223
+        tidal: https://tidal.com/album/254211223
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_n7xIDwvoVJj4zQFLw1IO2n4qLYDOTWWqw
     - id: you-feeling-self
@@ -220,7 +220,7 @@
         pandora: https://www.pandora.com/artist/ill-fam/you-feeling-self-single/ALJw6rvrXrVmr4V
         soundcloud:
         spotify: https://open.spotify.com/album/70MhjHM0sxHFi1gEyaVijN
-        tidal: http://www.tidal.com/album/233522284
+        tidal: https://tidal.com/album/233522284
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_nXL5CR52cIuPdC-h9MNCVU52Y6K_4yCNE
     - id: anxietol
@@ -237,7 +237,7 @@
         pandora: https://www.pandora.com/artist/ill-fam/anxietol/AL2PPrcZg2df5ZK
         soundcloud:
         spotify: https://open.spotify.com/album/2bHbHOGMwnINi78oNUUgnF
-        tidal: http://www.tidal.com/album/232959690
+        tidal: https://tidal.com/album/232959690
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_nyArpCEXaq_TEZN1jreW8rzTn7dUQ-ZLw
     - id: fly-a-way
@@ -254,7 +254,7 @@
         pandora: https://www.pandora.com/artist/ill-fam/fly-a-way/ALKqlPdh7jcVj9P
         soundcloud:
         spotify: https://open.spotify.com/album/2GhLP5V40dKQKmDjxo439P
-        tidal: http://listen.tidalhifi.com/album/232102707
+        tidal: https://tidal.com/album/232102707
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_m56fART3RyplTXhUgkWs9AQnTKG9QNkPs
 - id: joe-sciarrone
@@ -303,7 +303,7 @@
         pandora:
         soundcloud:
         spotify: https://open.spotify.com/album/0kiNJx32cyXt5oAF3VWhqd
-        tidal: https://listen.tidal.com/album/192127329
+        tidal: https://tidal.com/album/192127329
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_nI0s2zhe4HT0uqT4xrNBOlg0SjPvW_WLg
     - id: the-memory-lane
@@ -319,7 +319,7 @@
         pandora:
         soundcloud:
         spotify: https://open.spotify.com/album/6qJkoh3bXfYKSPmOIdDC84
-        tidal: https://listen.tidal.com/album/168892992
+        tidal: https://tidal.com/album/168892992
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_nFvOQJ1MttHxpcp_aunox6wRXMg9jR_jI
     - id: song-for-mr-dylan
@@ -335,7 +335,7 @@
         pandora:
         soundcloud: https://soundcloud.com/joesciarronemusic/song-for-mr-dylan
         spotify: https://open.spotify.com/album/309wjL6GyrgfWoY19r425u
-        tidal: https://listen.tidal.com/album/202546934
+        tidal: https://tidal.com/album/album/202546934
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_mqMWgdPTSepu83Vt-_-iK2oh7C52jD4Ig
     - id: just-drift-away
@@ -351,7 +351,7 @@
         pandora:
         soundcloud:
         spotify: https://open.spotify.com/album/0un02GgUzTaa5MylNJ8gd6
-        tidal: https://listen.tidal.com/album/200646639
+        tidal: https://tidal.com/album/200646639
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_me3DvBPE4Y9zx2_1Fqxsv4Kjfbxl75zNE
     - id: shes-gone
@@ -367,7 +367,7 @@
         pandora:
         soundcloud:
         spotify: https://open.spotify.com/album/39LrfhpVrPTnL8fPbBXYCf
-        tidal: https://listen.tidal.com/album/198801346
+        tidal: https://tidal.com/album/198801346
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_k7yC2BzMTei_CoriqJajslDbApBWp_12c
     - id: everything-to-me
@@ -383,7 +383,7 @@
         pandora:
         soundcloud:
         spotify: https://open.spotify.com/album/70UcyMmoYFsKV9o7bfTSkX
-        tidal: https://listen.tidal.com/album/197805075
+        tidal: https://tidal.com/album/197805075
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_mDIBFMc9oPjJFUGs2cIMjMqkx49eAfO08
     - id: the-boy-from-troy
@@ -399,7 +399,7 @@
         pandora: https://www.pandora.com/artist/joe-sciarrone/the-boy-from-troy-single/ALgzrdqvKqcdq9w
         soundcloud:
         spotify: https://open.spotify.com/album/3vdh2eaC9GgydSMKmSkAOs
-        tidal: https://listen.tidal.com/album/175451889
+        tidal: https://tidal.com/album/175451889
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_k2Raw1y2n3po-A9y_KhC3pBovQz1u_YH0
     - id: give-me-glorious-days
@@ -415,7 +415,7 @@
         pandora:
         soundcloud:
         spotify: https://open.spotify.com/album/4hVKahUOucQuckbJIi5Lpb
-        tidal: https://listen.tidal.com/album/169876483
+        tidal: https://tidal.com/album/169876483
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_m1OsHlXMT1ygMVy3YgsQ89Ah4TwgFcyCw
     - id: melt-into-everything
@@ -431,7 +431,7 @@
         pandora:
         soundcloud:
         spotify: https://open.spotify.com/album/1YqI2pZ0SFbGbvHsMpqR90
-        tidal: https://listen.tidal.com/album/167790866
+        tidal: https://tidal.com/album/167790866
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_kskGN08ZECxE7RZyvqzUp1NgZh5OiOMzo
     - id: sundown-town
@@ -447,7 +447,7 @@
         pandora:
         soundcloud:
         spotify: https://open.spotify.com/album/58VENAgGuw71yLShgOfIG6
-        tidal: https://listen.tidal.com/album/165688912
+        tidal: https://tidal.com/album/165688912
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_mYdIAX6FvmFYWrc1me-hpCXT2tcSA6nto
     - id: still-waiting-for-the-change-to-come
@@ -463,7 +463,7 @@
         pandora:
         soundcloud:
         spotify: https://open.spotify.com/album/5ShqNSbVPkRGVc4je5QA7l
-        tidal: https://listen.tidal.com/album/160956462
+        tidal: https://tidal.com/album/160956462
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_kfknCVWYyk-7s8Kr3obo2zydoJUDfqpZc
     - id: awareness-disease
@@ -479,7 +479,7 @@
         pandora:
         soundcloud:
         spotify: https://open.spotify.com/album/2MtCLAA8o7WZ7harTOnqO6
-        tidal: https://listen.tidal.com/album/159833435
+        tidal: https://tidal.com/album/159833435
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_mwFiLWNiRvvFQVK8N0RTT0_0Ulag8sgfc
     - id: destination
@@ -495,7 +495,7 @@
         pandora:
         soundcloud:
         spotify: https://open.spotify.com/album/4mGHrHIcSWaEoTbdP02F77
-        tidal: https://listen.tidal.com/album/159847059
+        tidal: https://tidal.com/album/159847059
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_mG1rG3S6O2n66B9Jo9xOqXNXiF-BAMPFo
 - id: roxanne
@@ -541,7 +541,7 @@
         pandora:
         soundcloud:
         spotify: https://open.spotify.com/album/1kgued9QkpFK0UhEJPhbxj
-        tidal: https://listen.tidal.com/album/172830841
+        tidal: https://tidal.com/album/172830841
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_mRNs0hjsNa-eEVN1lbmTqOJW2YGCpdqtc
 - id: train-engineers
@@ -605,7 +605,7 @@
         pandora: https://www.pandora.com/artist/the-train-engineers/next-stop-matters/ALgfPh2j5dc3db2
         soundcloud:
         spotify: https://open.spotify.com/album/6g0Xff8z6pA4aCOgW31Idc
-        tidal: http://www.tidal.com/album/232959665
+        tidal: https://tidal.com/album/232959665
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_k5yDc9Ma0TiRQCueZeUju1zpK92oMYcBM
     - id: off-the-rails
@@ -621,6 +621,6 @@
         pandora: https://www.pandora.com/artist/the-train-engineers/off-the-rails/ALcJ46zZjhhbv36
         soundcloud:
         spotify: https://open.spotify.com/album/4c16M3dfSGlS6gN6oAQEPt
-        tidal: http://listen.tidalhifi.com/album/232102707
+        tidal: https://tidal.com/album/232102707
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_kQgyKfmi5F9OxNPX_Q2PKMC5ExRC0Eddg
