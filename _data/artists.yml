@@ -86,7 +86,7 @@
         spotify:
         tidal: https://tidal.com/album/320992153
         youtube:
-        youtubemusic:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_mJcDuriDJV4tJon9LrsFThoD9jYaG1ofY
     - id: plunge-the-depths
       name: Plunge the Depths
       date: 2023-10-04
