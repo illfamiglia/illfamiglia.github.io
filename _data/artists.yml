@@ -70,6 +70,23 @@
     #     tidal:
     #     youtube:
     #     youtubemusic:
+    - id: world-away
+      name: World Away
+      date: 2023-10-17
+      genre: R&B/Soul, Contemporary R&B
+      url: https://illfam.bandcamp.com/album/world-away
+      image: world-away.jpg
+      outlets:
+        amazonmusic: https://music.amazon.com/albums/B0CL7SL5K2
+        applemusic: https://music.apple.com/album/world-away/1712357600?app=music
+        bandcamp: https://illfam.bandcamp.com/album/world-away
+        deezer: https://www.deezer.com/album/501491631
+        pandora: https://www.pandora.com/artist/ill-fam/world-away/ALV5fbJwcw7q7VJ
+        soundcloud:
+        spotify: https://open.spotify.com/album/4sPetSkZrjiGWvo9WVjxbl
+        tidal: https://tidal.com/album/322316198
+        youtube:
+        youtubemusic:
     - id: vocalistics
       name: Vocalistics
       date: 2023-10-10
