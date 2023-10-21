@@ -86,7 +86,7 @@
         spotify: https://open.spotify.com/album/4sPetSkZrjiGWvo9WVjxbl
         tidal: https://tidal.com/album/322316198
         youtube:
-        youtubemusic:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_lt-EZI-6O4d6veJKCMwyvTS4dpQdxd2VM
     - id: vocalistics
       name: Vocalistics
       date: 2023-10-10
