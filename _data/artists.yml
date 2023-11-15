@@ -1,3 +1,4 @@
+---
 # ------------------------------------------------------------------------------
 # Metadata for artists and their releases.
 # ------------------------------------------------------------------------------
@@ -36,7 +37,6 @@
 #         tidal:
 #         youtube:
 #         youtubemusic:
-
 - id: ill-fam
   name: Ill Fam
   genre: Hip-Hop, R&B, Jazz, Funk, Rock, Instrumental
@@ -70,6 +70,23 @@
     #     tidal:
     #     youtube:
     #     youtubemusic:
+    - id: indra-rains
+      name: indra-rains
+      date: 2023-11-15
+      genre: R&B/Soul, Contemporary R&B
+      url: https://illfam.bandcamp.com/album/indra-rains
+      image: indra-rains.jpg
+      outlets:
+        amazonmusic:
+        applemusic: https://music.apple.com/album/indra-rains/1716716683
+        bandcamp: https://illfam.bandcamp.com/album/indra-rains
+        deezer: https://www.deezer.com/album/512915781
+        pandora:
+        soundcloud:
+        spotify:
+        tidal: https://tidal.com/album/328958687
+        youtube:
+        youtubemusic:
     - id: world-away
       name: World Away
       date: 2023-10-17
@@ -78,7 +95,7 @@
       image: world-away.jpg
       outlets:
         amazonmusic: https://music.amazon.com/albums/B0CL7SL5K2
-        applemusic: https://music.apple.com/album/world-away/1712357600?app=music
+        applemusic: https://music.apple.com/album/world-away/1712357600
         bandcamp: https://illfam.bandcamp.com/album/world-away
         deezer: https://www.deezer.com/album/501491631
         pandora: https://www.pandora.com/artist/ill-fam/world-away/ALV5fbJwcw7q7VJ
