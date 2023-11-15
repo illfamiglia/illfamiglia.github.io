@@ -78,13 +78,13 @@
       image: indra-rains.jpg
       outlets:
         amazonmusic:
-        applemusic:
+        applemusic: https://music.apple.com/album/indra-rains/1716716683
         bandcamp: https://illfam.bandcamp.com/album/indra-rains
-        deezer:
+        deezer: https://www.deezer.com/album/512915781
         pandora:
         soundcloud:
         spotify:
-        tidal:
+        tidal: https://tidal.com/album/328958687
         youtube:
         youtubemusic:
     - id: world-away
