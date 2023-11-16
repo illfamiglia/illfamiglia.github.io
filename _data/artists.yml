@@ -77,13 +77,13 @@
       url: https://illfam.bandcamp.com/album/indra-rains
       image: indra-rains.jpg
       outlets:
-        amazonmusic:
+        amazonmusic: https://music.amazon.com/albums/B0CND7HV7N
         applemusic: https://music.apple.com/album/indra-rains/1716716683
         bandcamp: https://illfam.bandcamp.com/album/indra-rains
         deezer: https://www.deezer.com/album/512915781
-        pandora:
+        pandora: https://www.pandora.com/artist/ill-fam/indra-rains/2FAL467XtfcPqxvX6
         soundcloud:
-        spotify:
+        spotify: https://open.spotify.com/album/5siZh6dOaOQDesxybWOocJ
         tidal: https://tidal.com/album/328958687
         youtube:
         youtubemusic:
