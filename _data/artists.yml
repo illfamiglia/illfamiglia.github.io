@@ -86,7 +86,7 @@
         spotify: https://open.spotify.com/album/5siZh6dOaOQDesxybWOocJ
         tidal: https://tidal.com/album/328958687
         youtube:
-        youtubemusic:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_ndJGlcqx3GbLktvifcK9ms3VSTyw8cuLI
     - id: world-away
       name: World Away
       date: 2023-10-17
