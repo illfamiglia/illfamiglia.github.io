@@ -70,6 +70,23 @@
     #     tidal:
     #     youtube:
     #     youtubemusic:
+    - id: thirst-for-water
+      name: Thirst for Water
+      date: 2023-12-06
+      genre: R&B/Soul, Contemporary R&B
+      url: https://illfam.bandcamp.com/album/thirst-for-water
+      image: thirst-for-water.jpg
+      outlets:
+        amazonmusic:
+        applemusic: https://music.apple.com/album/thirst-for-water/1720001982
+        bandcamp: https://illfam.bandcamp.com/album/thirst-for-water
+        deezer: https://www.deezer.com/album/520706012
+        pandora: https://www.pandora.com/artist/ill-fam/thirst-for-water/ALKVtxXVmf77fq2
+        soundcloud:
+        spotify:
+        tidal: https://tidal.com/album/333585544
+        youtube:
+        youtubemusic:
     - id: indra-rains
       name: Indra Rains
       date: 2023-11-15
