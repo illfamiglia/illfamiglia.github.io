@@ -70,6 +70,23 @@
     #     tidal:
     #     youtube:
     #     youtubemusic:
+    - id: travel-light
+      name: Travel Light
+      date: 2023-12-11
+      genre: R&B/Soul, Contemporary R&B
+      url: https://illfam.bandcamp.com/album/travel-light
+      image: travel-light.jpg
+      outlets:
+        amazonmusic:
+        applemusic: https://music.apple.com/album/travel-light/1720815764
+        bandcamp: https://illfam.bandcamp.com/album/travel-light
+        deezer: https://www.deezer.com/album/522611882
+        pandora:
+        soundcloud:
+        spotify:
+        tidal:
+        youtube:
+        youtubemusic:
     - id: thirst-for-water
       name: Thirst for Water
       date: 2023-12-06
@@ -77,16 +94,16 @@
       url: https://illfam.bandcamp.com/album/thirst-for-water
       image: thirst-for-water.jpg
       outlets:
-        amazonmusic:
+        amazonmusic: https://music.amazon.com/albums/B0CPMBVJ8D
         applemusic: https://music.apple.com/album/thirst-for-water/1720001982
         bandcamp: https://illfam.bandcamp.com/album/thirst-for-water
         deezer: https://www.deezer.com/album/520706012
         pandora: https://www.pandora.com/artist/ill-fam/thirst-for-water/ALKVtxXVmf77fq2
         soundcloud:
-        spotify:
+        spotify: https://open.spotify.com/album/001brg3pmsHfsM1nyzkCE6
         tidal: https://tidal.com/album/333585544
         youtube:
-        youtubemusic:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_kN7LqTfBk8XlXm8fGwtOmIr6k8HbyOWrc
     - id: indra-rains
       name: Indra Rains
       date: 2023-11-15
