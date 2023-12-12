@@ -77,13 +77,13 @@
       url: https://illfam.bandcamp.com/album/travel-light
       image: travel-light.jpg
       outlets:
-        amazonmusic:
+        amazonmusic: https://music.amazon.com/albums/B0CQ1JTP4H
         applemusic: https://music.apple.com/album/travel-light/1720815764
         bandcamp: https://illfam.bandcamp.com/album/travel-light
         deezer: https://www.deezer.com/album/522611882
-        pandora:
+        pandora: https://www.pandora.com/artist/ill-fam/travel-light/ALPVckkP32fw36Z
         soundcloud:
-        spotify:
+        spotify: https://open.spotify.com/album/6sjnd1Nea9DqBU55cw0fvW
         tidal:
         youtube:
         youtubemusic:
