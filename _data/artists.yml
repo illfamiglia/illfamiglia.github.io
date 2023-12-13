@@ -86,7 +86,7 @@
         spotify: https://open.spotify.com/album/6sjnd1Nea9DqBU55cw0fvW
         tidal:
         youtube:
-        youtubemusic:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_nLE95J9dohiDT8HUbXiVZTQujw-VEcpbU
     - id: thirst-for-water
       name: Thirst for Water
       date: 2023-12-06
