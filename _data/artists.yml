@@ -566,6 +566,40 @@
         tidal: https://tidal.com/album/159847059
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_mG1rG3S6O2n66B9Jo9xOqXNXiF-BAMPFo
+- id: loose-laces
+  name: Loose Laces
+  genre: Alternative
+  logo: loose-laces-logo-black.svg
+  image:
+  bio:
+  sites:
+    amazonmusic: https://music.amazon.com/artists/B09K532V8J/loose-laces
+    applemusic: https://music.apple.com/artist/loose-laces/548523860
+    bandcamp: https://looselaces.bandcamp.com
+    deezer: https://www.deezer.com/artist/52876922
+    pandora:
+    soundcloud:
+    spotify: https://open.spotify.com/artist/2sbaRUg0fX5HLKWIPmypsC
+    tidal:
+    youtube:
+    youtubemusic:
+  releases:
+    - id: volume-1-time-ravels
+      name: 'Volume 1: Time Ravels'
+      date: 2024
+      url: https://looselaces.bandcamp.com/album/volume-1-time-ravels
+      image: volume-1-time-ravels.jpg
+      outlets:
+        amazonmusic: https://music.amazon.com/albums/B0D647XV8G
+        applemusic: https://music.apple.com/album/volume-1-time-ravels/1750320608
+        bandcamp: https://looselaces.bandcamp.com/album/volume-1-time-ravels
+        deezer: https://www.deezer.com/album/596858612
+        pandora:
+        soundcloud:
+        spotify: https://open.spotify.com/album/5Ufa62huIkWTiProPORepw
+        tidal:
+        youtube:
+        youtubemusic:
 - id: roxanne
   name: Roxanne
   genre: R&amp;B, Soul, Pop
