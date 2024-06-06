@@ -577,12 +577,12 @@
     applemusic: https://music.apple.com/artist/loose-laces/548523860
     bandcamp: https://looselaces.bandcamp.com
     deezer: https://www.deezer.com/artist/52876922
-    pandora:
+    pandora: https://www.pandora.com/artist/loose-laces/AR59tKlbPgm57XX
     soundcloud:
     spotify: https://open.spotify.com/artist/2sbaRUg0fX5HLKWIPmypsC
-    tidal:
+    tidal: https://tidal.com/browse/artist/7791961
     youtube:
-    youtubemusic:
+    youtubemusic: https://music.youtube.com/browse/VLPLAdq5CmnPTs23oxUu18qYReIMQ9TmHWx9
   releases:
     - id: volume-1-time-ravels
       name: 'Volume 1: Time Ravels'
@@ -594,12 +594,12 @@
         applemusic: https://music.apple.com/album/volume-1-time-ravels/1750320608
         bandcamp: https://looselaces.bandcamp.com/album/volume-1-time-ravels
         deezer: https://www.deezer.com/album/596858612
-        pandora:
+        pandora: https://www.pandora.com/artist/loose-laces/volume-1-time-ravels/AL3PJbXZjzV7Pfg
         soundcloud:
         spotify: https://open.spotify.com/album/5Ufa62huIkWTiProPORepw
-        tidal:
+        tidal: http://www.tidal.com/album/367342174
         youtube:
-        youtubemusic:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_mAL0ocNFHVnt9Ce9e59_duh9BcliRQFcM
 - id: roxanne
   name: Roxanne
   genre: R&amp;B, Soul, Pop
