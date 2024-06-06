@@ -22,7 +22,7 @@ class: home
     <div class="col">
       <div class="card border-0 text-center">
         <a href="{{ artist.id | prepend: "/" | relative_url }}"><img class="card-img-top" src="{{ artist.logo | prepend: "/" | prepend: artist.id | prepend: "/images/artists/" | relative_url }}" alt="{{ artist.name }}" width="100%"
-          {% if artist.id == 'dr-eephus' %} height="70" style="margin-top:10px;margin-bottom:10px"
+          {% if artist.id == 'dr-eephus' %} height="70" style="margin-top:20px;margin-bottom:10px"
           {% elsif artist.id == 'ill-fam' %} height="80" style="margin-top:10px;margin-bottom:10px"
           {% elsif artist.id == 'joe-sciarrone' %} height="45" style="margin-top:30px;margin-bottom:20px"
           {% elsif artist.id == 'roxanne' %} height="60" style="margin-top:30px;margin-bottom:15px"
