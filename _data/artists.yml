@@ -37,6 +37,40 @@
 #         tidal:
 #         youtube:
 #         youtubemusic:
+- id: dr-eephus
+  name: Dr Eephus
+  genre: Electronic, Hip-Hop/R&B
+  logo: dr-eephus-logo-black.svg
+  image:
+  bio:
+  sites:
+    amazonmusic:
+    applemusic:
+    bandcamp: https://dreephus.bandcamp.com
+    deezer:
+    pandora:
+    soundcloud:
+    spotify:
+    tidal:
+    youtube:
+    youtubemusic:
+  releases:
+    - id: switch-stance
+      name: Switch Stance
+      date: 2024
+      url: https://dreephus.bandcamp.com/album/switch-stance
+      image: switch-stance.jpg
+      outlets:
+        amazonmusic:
+        applemusic:
+        bandcamp: https://dreephus.bandcamp.com/album/switch-stance
+        deezer:
+        pandora:
+        soundcloud:
+        spotify:
+        tidal:
+        youtube:
+        youtubemusic:
 - id: ill-fam
   name: Ill Fam
   genre: Hip-Hop, R&B, Jazz, Funk, Rock, Instrumental
