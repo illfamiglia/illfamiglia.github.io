@@ -44,13 +44,13 @@
   image:
   bio:
   sites:
-    amazonmusic:
-    applemusic:
+    amazonmusic: https://music.amazon.com/artists/B0D6CN42M6/dr-eephus
+    applemusic: https://music.apple.com/artist/dr-eephus/1750750532
     bandcamp: https://dreephus.bandcamp.com
-    deezer:
-    pandora:
+    deezer: https://www.deezer.com/artist/268679982
+    pandora: https://www.pandora.com/artist/dr-eephus/ARcn4bzZZt9zd5g
     soundcloud:
-    spotify:
+    spotify: https://open.spotify.com/artist/5UiVslXRqLNKLADjDVjJCg
     tidal:
     youtube:
     youtubemusic:
@@ -61,13 +61,13 @@
       url: https://dreephus.bandcamp.com/album/switch-stance
       image: switch-stance.jpg
       outlets:
-        amazonmusic:
-        applemusic:
+        amazonmusic: https://music.amazon.com/albums/B0D6D36T43
+        applemusic: https://music.apple.com/album/switch-stance/1750751527
         bandcamp: https://dreephus.bandcamp.com/album/switch-stance
-        deezer:
-        pandora:
+        deezer: https://www.deezer.com/album/597801542
+        pandora: https://www.pandora.com/artist/dr-eephus/switch-stance/ALt676qhPt99XcZ
         soundcloud:
-        spotify:
+        spotify: https://open.spotify.com/album/73Q71zXeCAdQVQ0OXZ7AGM
         tidal:
         youtube:
         youtubemusic:
