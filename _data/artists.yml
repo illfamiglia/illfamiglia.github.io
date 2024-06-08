@@ -51,9 +51,9 @@
     pandora: https://www.pandora.com/artist/dr-eephus/ARcn4bzZZt9zd5g
     soundcloud:
     spotify: https://open.spotify.com/artist/5UiVslXRqLNKLADjDVjJCg
-    tidal:
+    tidal: https://tidal.com/browse/artist/48294087
     youtube:
-    youtubemusic:
+    youtubemusic: https://music.youtube.com/playlist?list=PLAdq5CmnPTs1BvDoQ-LniD6gjNg4R8itY
   releases:
     - id: switch-stance
       name: Switch Stance
@@ -68,9 +68,9 @@
         pandora: https://www.pandora.com/artist/dr-eephus/switch-stance/ALt676qhPt99XcZ
         soundcloud:
         spotify: https://open.spotify.com/album/73Q71zXeCAdQVQ0OXZ7AGM
-        tidal:
+        tidal: http://www.tidal.com/album/367858151
         youtube:
-        youtubemusic:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_l_R19oHZVUPGg4TAb6n7envRK4v5IJJOQ
 - id: ill-fam
   name: Ill Fam
   genre: Hip-Hop, R&B, Jazz, Funk, Rock, Instrumental
