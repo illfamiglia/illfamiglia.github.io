@@ -57,7 +57,7 @@
   releases:
     - id: switch-stance
       name: Switch Stance
-      date: 2024
+      date: 2024-06-07
       url: https://dreephus.bandcamp.com/album/switch-stance
       image: switch-stance.jpg
       outlets:
@@ -605,7 +605,7 @@
   genre: funky instrumental synth pop surf rock
   logo: loose-laces-logo-black.svg
   image:
-  bio:
+  bio: Funky instrumental synth pop surf rock with reggae vibes. Enjoy while walking, running, driving, riding, working, chilling, dancing, or skating.
   sites:
     amazonmusic: https://music.amazon.com/artists/B09K532V8J/loose-laces
     applemusic: https://music.apple.com/artist/loose-laces/548523860
@@ -618,9 +618,41 @@
     youtube:
     youtubemusic: https://music.youtube.com/browse/VLPLAdq5CmnPTs23oxUu18qYReIMQ9TmHWx9
   releases:
+    # - id:
+    #   name:
+    #   date:
+    #   url:
+    #   image:
+    #   outlets:
+    #     amazonmusic:
+    #     applemusic:
+    #     bandcamp:
+    #     deezer:
+    #     pandora:
+    #     soundcloud:
+    #     spotify:
+    #     tidal:
+    #     youtube:
+    #     youtubemusic:
+    - id: volume-2-a-couple-skates
+      name: 'Volume 2: A Couple Skates'
+      date: 2024-08-15
+      url: https://illfam.bandcamp.com/album/volume-2-a-couple-skates
+      image: volume-2-a-couple-skates.jpg
+      outlets:
+        amazonmusic:
+        applemusic: https://music.apple.com/album/volume-2-a-couple-skates/1762964385
+        bandcamp: https://illfam.bandcamp.com/album/volume-2-a-couple-skates
+        deezer: https://www.deezer.com/album/629714231
+        pandora: https://www.pandora.com/artist/loose-laces/volume-2-a-couple-skates/ALzftKfkj697326
+        soundcloud:
+        spotify:
+        tidal: https://tidal.com/album/381370025
+        youtube:
+        youtubemusic:
     - id: volume-1-time-ravels
       name: 'Volume 1: Time Ravels'
-      date: 2024
+      date: 2024-06-04
       url: https://looselaces.bandcamp.com/album/volume-1-time-ravels
       image: volume-1-time-ravels.jpg
       outlets:
