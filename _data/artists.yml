@@ -634,13 +634,29 @@
     #     tidal:
     #     youtube:
     #     youtubemusic:
+    - id: volume-3-on-high-tides
+      name: 'Volume 3: On High Tides'
+      date: 2024-10-14
+      url: https://illfam.bandcamp.com/album/volume-3-on-high-tides
+      image: volume-3-on-high-tides.jpg
+      outlets:
+        amazonmusic:
+        applemusic:
+        bandcamp: https://illfam.bandcamp.com/album/volume-3-on-high-tides
+        deezer: https://www.deezer.com/album/656826011
+        pandora:
+        soundcloud:
+        spotify:
+        tidal:
+        youtube:
+        youtubemusic:
     - id: volume-2-a-couple-skates
       name: 'Volume 2: A Couple Skates'
       date: 2024-08-15
       url: https://illfam.bandcamp.com/album/volume-2-a-couple-skates
       image: volume-2-a-couple-skates.jpg
       outlets:
-        amazonmusic:
+        amazonmusic: https://music.amazon.com/albums/B0DD76MTQ3
         applemusic: https://music.apple.com/album/volume-2-a-couple-skates/1762964385
         bandcamp: https://illfam.bandcamp.com/album/volume-2-a-couple-skates
         deezer: https://www.deezer.com/album/629714231
@@ -649,7 +665,7 @@
         spotify: https://open.spotify.com/album/1Cl6dUxeZ36qUNtKTe1hAQ
         tidal: https://tidal.com/album/381370025
         youtube:
-        youtubemusic:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_m_6Tlx4ZsIy58IK1dxLO9D18ER7mWMeEY
     - id: volume-1-time-ravels
       name: 'Volume 1: Time Ravels'
       date: 2024-06-04
