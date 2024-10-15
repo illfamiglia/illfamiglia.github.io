@@ -641,7 +641,7 @@
       image: volume-3-on-high-tides.jpg
       outlets:
         amazonmusic: https://music.amazon.com/albums/B0DK2FDSLP
-        applemusic:
+        applemusic: https://music.apple.com/album/volume-3-on-high-tides/1773956628
         bandcamp: https://illfam.bandcamp.com/album/volume-3-on-high-tides
         deezer: https://www.deezer.com/album/656826011
         pandora: https://www.pandora.com/artist/loose-laces/volume-3-on-high-tides/ALxJJVgg4mJmfVZ
@@ -649,7 +649,7 @@
         spotify:
         tidal: https://tidal.com/album/393183966
         youtube:
-        youtubemusic:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_nQAczh_yxgWK1AjEvZxjY-VzW89KVIbfY
     - id: volume-2-a-couple-skates
       name: 'Volume 2: A Couple Skates'
       date: 2024-08-15
