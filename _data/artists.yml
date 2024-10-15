@@ -640,14 +640,14 @@
       url: https://illfam.bandcamp.com/album/volume-3-on-high-tides
       image: volume-3-on-high-tides.jpg
       outlets:
-        amazonmusic:
+        amazonmusic: https://music.amazon.com/albums/B0DK2FDSLP
         applemusic:
         bandcamp: https://illfam.bandcamp.com/album/volume-3-on-high-tides
         deezer: https://www.deezer.com/album/656826011
-        pandora:
+        pandora: https://www.pandora.com/artist/loose-laces/volume-3-on-high-tides/ALxJJVgg4mJmfVZ
         soundcloud:
         spotify:
-        tidal:
+        tidal: https://tidal.com/album/393183966
         youtube:
         youtubemusic:
     - id: volume-2-a-couple-skates
@@ -679,7 +679,7 @@
         pandora: https://www.pandora.com/artist/loose-laces/volume-1-time-ravels/AL3PJbXZjzV7Pfg
         soundcloud:
         spotify: https://open.spotify.com/album/5Ufa62huIkWTiProPORepw
-        tidal: http://www.tidal.com/album/367342174
+        tidal: https://tidal.com/album/367342174
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_mAL0ocNFHVnt9Ce9e59_duh9BcliRQFcM
 - id: roxanne
