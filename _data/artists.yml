@@ -649,7 +649,7 @@
         spotify: https://open.spotify.com/album/5Xo3rvrvRVJru3QR6JkfuH
         tidal: https://tidal.com/album/394523201
         youtube:
-        youtubemusic:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_nAXKhZbCQVtLR-Cg__cfJmNMFeR6bi-ZA
     - id: volume-3-on-high-tides
       name: 'Volume 3: On High Tides'
       date: 2024-10-14
