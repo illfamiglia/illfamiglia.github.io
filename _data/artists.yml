@@ -634,15 +634,31 @@
     #     tidal:
     #     youtube:
     #     youtubemusic:
+    - id: volume-4-full-moon-surfing
+      name: 'Volume 4: Full Moon Surfing'
+      date: 2024-10-20
+      url: https://looselaces.bandcamp.com/album/volume-4-full-moon-surfing
+      image: volume-4-full-moon-surfing.jpg
+      outlets:
+        amazonmusic: https://music.amazon.com/albums/B0DKD82KT9
+        applemusic: https://music.apple.com/album/volume-4-full-moon-surfing/1775060369
+        bandcamp: https://looselaces.bandcamp.com/album/volume-4-full-moon-surfing
+        deezer: https://www.deezer.com/album/659542531
+        pandora: https://www.pandora.com/artist/loose-laces/volume-4-full-moon-surfing/ALvdpzmZptnlk9g
+        soundcloud:
+        spotify: https://open.spotify.com/album/5Xo3rvrvRVJru3QR6JkfuH
+        tidal: https://tidal.com/album/394523201
+        youtube:
+        youtubemusic:
     - id: volume-3-on-high-tides
       name: 'Volume 3: On High Tides'
       date: 2024-10-14
-      url: https://illfam.bandcamp.com/album/volume-3-on-high-tides
+      url: https://looselaces.bandcamp.com/album/volume-3-on-high-tides
       image: volume-3-on-high-tides.jpg
       outlets:
         amazonmusic: https://music.amazon.com/albums/B0DK2FDSLP
         applemusic: https://music.apple.com/album/volume-3-on-high-tides/1773956628
-        bandcamp: https://illfam.bandcamp.com/album/volume-3-on-high-tides
+        bandcamp: https://looselaces.bandcamp.com/album/volume-3-on-high-tides
         deezer: https://www.deezer.com/album/656826011
         pandora: https://www.pandora.com/artist/loose-laces/volume-3-on-high-tides/ALxJJVgg4mJmfVZ
         soundcloud:
@@ -653,12 +669,12 @@
     - id: volume-2-a-couple-skates
       name: 'Volume 2: A Couple Skates'
       date: 2024-08-15
-      url: https://illfam.bandcamp.com/album/volume-2-a-couple-skates
+      url: https://looselaces.bandcamp.com/album/volume-2-a-couple-skates
       image: volume-2-a-couple-skates.jpg
       outlets:
         amazonmusic: https://music.amazon.com/albums/B0DD76MTQ3
         applemusic: https://music.apple.com/album/volume-2-a-couple-skates/1762964385
-        bandcamp: https://illfam.bandcamp.com/album/volume-2-a-couple-skates
+        bandcamp: https://looselaces.bandcamp.com/album/volume-2-a-couple-skates
         deezer: https://www.deezer.com/album/629714231
         pandora: https://www.pandora.com/artist/loose-laces/volume-2-a-couple-skates/ALzftKfkj697326
         soundcloud:
