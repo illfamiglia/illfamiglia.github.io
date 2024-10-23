@@ -776,22 +776,22 @@
     #     tidal:
     #     youtube:
     #     youtubemusic:
-    # - id: tribute-to-the-i
-    #   name: Tribute to the I
-    #   date: 2022-?
-    #   url: https://trainengineers.bandcamp.com/album/tribute-to-the-i
-    #   image: tribute-to-the-i.jpg
-    #   outlets:
-    #     amazonmusic:
-    #     applemusic:
-    #     bandcamp: https://trainengineers.bandcamp.com/album/tribute-to-the-i
-    #     deezer:
-    #     pandora:
-    #     soundcloud:
-    #     spotify:
-    #     tidal:
-    #     youtube:
-    #     youtubemusic:
+    - id: tribute-to-the-i
+      name: Tribute to the I (Nyabinghi I)
+      date: 2024-10-22
+      url: https://trainengineers.bandcamp.com/album/tribute-to-the-i-nyabinghi-i
+      image: tribute-to-the-i.jpg
+      outlets:
+        amazonmusic:
+        applemusic:
+        bandcamp: https://trainengineers.bandcamp.com/album/tribute-to-the-i-nyabinghi-i
+        deezer: https://www.deezer.com/album/660631041
+        pandora:
+        soundcloud:
+        spotify:
+        tidal: https://tidal.com/album/395054600
+        youtube:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_n50JrSf4EvF6zct5WNxxtV_Ejp_n_mDJw
     - id: next-stop-matters
       name: Next Stop Matters
       date: 2022-06-27
