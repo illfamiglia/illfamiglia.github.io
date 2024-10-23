@@ -783,10 +783,10 @@
       image: tribute-to-the-i.jpg
       outlets:
         amazonmusic:
-        applemusic:
+        applemusic: https://music.apple.com/album/tribute-to-the-i-nyabinghi-i/1775761997
         bandcamp: https://trainengineers.bandcamp.com/album/tribute-to-the-i-nyabinghi-i
         deezer: https://www.deezer.com/album/660631041
-        pandora:
+        pandora: https://www.pandora.com/artist/the-train-engineers/tribute-to-the-i-nyabinghi-i/ALjd9PX37nkgmkm
         soundcloud:
         spotify:
         tidal: https://tidal.com/album/395054600
