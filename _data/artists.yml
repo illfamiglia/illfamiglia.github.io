@@ -634,6 +634,22 @@
     #     tidal:
     #     youtube:
     #     youtubemusic:
+    - id: volume-5-back-on-the-wall
+      name: 'Volume 5: Back on the Wall'
+      date: 2024-12-05
+      url: https://looselaces.bandcamp.com/album/volume-5-back-on-the-wall
+      image: volume-5-back-on-the-wall.jpg
+      outlets:
+        amazonmusic: https://music.amazon.com/albums/B0DPMX1RYS
+        applemusic: https://music.apple.com/album/volume-5-back-on-the-wall/1783633273
+        bandcamp: https://looselaces.bandcamp.com/album/volume-5-back-on-the-wall
+        deezer: https://www.deezer.com/us/album/679872751
+        pandora: https://www.pandora.com/artist/loose-laces/volume-5-back-on-the-wall/ALc5JZmnvxzxf7g
+        soundcloud:
+        spotify:
+        tidal: https://tidal.com/browse/album/403829300
+        youtube:
+        youtubemusic:
     - id: volume-4-full-moon-surfing
       name: 'Volume 4: Full Moon Surfing'
       date: 2024-10-20
