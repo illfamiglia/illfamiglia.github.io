@@ -1,0 +1,89 @@
+---
+# Configuration file for MegaLinter
+# See all available variables at https://megalinter.io/configuration/ and in linters documentation
+
+# Activates formatting and auto-fixing
+APPLY_FIXES: none
+# https://megalinter.io/latest/supported-linters/
+# If you use ENABLE variable, all other languages/formats/tooling formats will be disabled by default
+ENABLE:
+  - BASH
+  # - CLOUDFORMATION
+  # - CSS
+  - DOCKERFILE
+  - ENV
+  # - GHERKIN
+  # - HTML
+  - JAVASCRIPT
+  - JSON
+  # - KUBERNETES
+  - MARKDOWN
+  # - OPENAPI
+  # - PYTHON
+  - REPOSITORY
+  # - TERRAFORM
+  # - XML
+  - YAML
+DISABLE_LINTERS:
+  - JAVASCRIPT_STANDARD
+  - JSON_PRETTIER
+  - KUBERNETES_KUBEVAL
+  - MARKDOWN_MARKDOWN_LINK_CHECK
+  - MARKDOWN_REMARK_LINT
+  # - PYTHON_BLACK
+  - PYTHON_FLAKE8
+  - PYTHON_ISORT
+  - PYTHON_MYPY
+  - PYTHON_PYRIGHT
+  - PYTHON_RUFF
+  # - REPOSITORY_CHECKOV
+  - REPOSITORY_DEVSKIM
+  - REPOSITORY_DUSTILOCK
+  - REPOSITORY_GOODCHECK
+  - REPOSITORY_GRYPE
+  # - REPOSITORY_KICS
+  - REPOSITORY_SEMGREP
+  - REPOSITORY_SYFT
+  - REPOSITORY_TRUFFLEHOG
+  - TERRAFORM_TERRASCAN
+BASH_EXEC_FILE_EXTENSIONS: ['']
+BASH_EXEC_FILTER_REGEX_INCLUDE: '(bin/*|functions/*|scripts/*)'
+BASH_SHELLCHECK_FILE_EXTENSIONS: ['', '.sh', '.bash', '.dash', '.ksh']
+BASH_SHELLCHECK_FILTER_REGEX_EXCLUDE: '.gitkeep'
+BASH_SHELLCHECK_FILTER_REGEX_INCLUDE: '(bin/*|functions/*|scripts/*)'
+BASH_SHFMT_FILE_EXTENSIONS: ['', '.sh', '.bash', '.dash', '.ksh']
+BASH_SHFMT_FILTER_REGEX_EXCLUDE: '(.gitkeep|bin/git-rank-contributors|bin/git-wtf|bin/gitio|bin/res)'
+BASH_SHFMT_FILTER_REGEX_INCLUDE: '(bin/*|functions/*|scripts/*)'
+EXCLUDED_DIRECTORIES: ['.git', '.terraform', 'megalinter-reports', 'node_modules']
+FLAVOR_SUGGESTIONS: false
+FORMATTERS_DISABLE_ERRORS: false
+JSON_JSONLINT_FILTER_REGEX_EXCLUDE: '(\.devcontainer/|\.vscode/|macos/init/Library/|tests/)'
+MARKDOWN_MARKDOWN_LINK_CHECK_DISABLE_ERRORS: true
+PRINT_ALL_FILES: false
+PRINT_ALPACA: false
+PYTHON_PYLINT_CONFIG_FILE: pyproject.toml
+PYTHON_PYLINT_ARGUMENTS: '--fail-under=0 --fail-on=E'
+PYTHON_BANDIT_CONFIG_FILE: pyproject.toml
+PYTHON_BANDIT_PRE_COMMANDS:
+  - command: 'pip install bandit[toml]'
+    cwd: 'workspace'
+REPORTERS_MARKDOWN_TYPE: simple
+REPOSITORY_TRIVY_ARGUMENTS:
+  - '--db-repository'
+  - 'public.ecr.aws/aquasecurity/trivy-db:2'
+  - '--java-db-repository'
+  - 'public.ecr.aws/aquasecurity/trivy-java-db:1'
+  - '--skip-dirs'
+  - '.devcontainer'
+  - '--skip-dirs'
+  - '.terraform'
+  - '--skip-dirs'
+  - 'megalinter-reports'
+  - '--skip-dirs'
+  - 'node_modules'
+  - '--skip-files'
+  - 'Dockerfile.test'
+SHOW_ELAPSED_TIME: true
+SHOW_SKIPPED_LINTERS: false
+YAML_PRETTIER_FILTER_REGEX_EXCLUDE: '(\.github/workflows)'
+YAML_YAMLLINT_FILTER_REGEX_EXCLUDE: '(\.github/workflows)'

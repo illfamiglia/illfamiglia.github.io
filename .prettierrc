@@ -1,0 +1,23 @@
+{
+  "printWidth": 100,
+  "singleQuote": true,
+  "overrides": [
+    {
+      "files": [
+        "*.jsonc",
+        ".devcontainer/*.json",
+        ".devcontainer/**/*.json",
+        ".vscode/*.json"
+      ],
+      "options": {
+        "parser": "jsonc"
+      }
+    },
+    {
+      "files": "*.json5",
+      "options": {
+        "parser": "json5"
+      }
+    }
+  ]
+}

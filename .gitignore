@@ -88,5 +88,13 @@ _site
 bower_components
 build/Release
 lib-cov
+megalinter-reports/
 node_modules
 !/images/icons
+
+# Infrastructure #
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfstate.d
