@@ -646,10 +646,10 @@
         deezer: https://www.deezer.com/us/album/679872751
         pandora: https://www.pandora.com/artist/loose-laces/volume-5-back-on-the-wall/ALc5JZmnvxzxf7g
         soundcloud:
-        spotify:
+        spotify: https://open.spotify.com/album/1dZbFgYbWGyaRmbsPNMlUn
         tidal: https://tidal.com/browse/album/403829300
         youtube:
-        youtubemusic:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_muA5ZdhZAcVZiNWiwU2EV_wkzFlQUfDP4
     - id: volume-4-full-moon-surfing
       name: 'Volume 4: Full Moon Surfing'
       date: 2024-10-20
