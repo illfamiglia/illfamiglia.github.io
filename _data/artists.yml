@@ -104,6 +104,23 @@
     #     tidal:
     #     youtube:
     #     youtubemusic:
+    - id: the-chopping-block
+      name: The Chopping Block
+      date: 2025-06-19
+      genre: Electronic, Hip-Hop/R&B
+      url: https://illfam.bandcamp.com/album/the-chopping-block
+      image: the-chopping-block.jpg
+      outlets:
+        amazonmusic:
+        applemusic: https://music.apple.com/album/the-chopping-block/1821684263
+        bandcamp: https://illfam.bandcamp.com/album/the-chopping-block
+        deezer: https://www.deezer.com/album/775223771
+        pandora: https://www.pandora.com/artist/ill-fam/the-chopping-block/AL3qqlZbrl5fl56
+        soundcloud:
+        spotify: https://open.spotify.com/album/23TnQOEHsRzH9WfE12brde
+        tidal: https://tidal.com/album/443159893
+        youtube:
+        youtubemusic:
     - id: travel-light
       name: Travel Light
       date: 2023-12-11
@@ -118,7 +135,7 @@
         pandora: https://www.pandora.com/artist/ill-fam/travel-light/ALPVckkP32fw36Z
         soundcloud:
         spotify: https://open.spotify.com/album/6sjnd1Nea9DqBU55cw0fvW
-        tidal:
+        tidal: https://tidal.com/album/336374661
         youtube:
         youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_nLE95J9dohiDT8HUbXiVZTQujw-VEcpbU
     - id: thirst-for-water
