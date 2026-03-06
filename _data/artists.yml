@@ -104,6 +104,23 @@
     #     tidal:
     #     youtube:
     #     youtubemusic:
+    - id: slays-the-dragon
+      name: Slays the Dragon
+      date: 2026-03-05
+      genre: R&B/Soul
+      url: https://illfam.bandcamp.com/album/slays-the-dragon
+      image: slays-the-dragon.jpg
+      outlets:
+        amazonmusic: https://music.amazon.com/albums/B0GRCMGTPJ
+        applemusic: https://music.apple.com/album/slays-the-dragon/1882830391
+        bandcamp: https://illfam.bandcamp.com/album/slays-the-dragon
+        deezer: https://www.deezer.com/album/933585481
+        pandora: https://www.pandora.com/artist/ill-fam/slays-the-dragon/ALrrZcpkzvqJXfV
+        soundcloud:
+        spotify: https://open.spotify.com/album/1CxwbCaQ2x7ihdc2TB9C1F
+        tidal:
+        youtube:
+        youtubemusic:
     - id: the-chopping-block
       name: The Chopping Block
       date: 2025-06-19
