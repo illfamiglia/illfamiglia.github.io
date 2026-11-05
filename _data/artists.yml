@@ -104,6 +104,23 @@
     #     tidal:
     #     youtube:
     #     youtubemusic:
+    - id: well-spring
+      name: Well Spring
+      date: 2026-11-05
+      genre: R&B/Soul
+      url: https://illfam.bandcamp.com/album/well-spring
+      image: well-spring.jpg
+      outlets:
+        amazonmusic: https://music.amazon.com/albums/B0HQJW3QYG
+        applemusic:
+        bandcamp: https://illfam.bandcamp.com/album/well-spring
+        deezer: https://www.deezer.com/album/1139435231
+        pandora: https://www.pandora.com/artist/ill-fam/well-spring/ALrqt92l5xlJz2w
+        soundcloud:
+        spotify: https://open.spotify.com/album/5RSXJtnlWVPLptpy86dO2b
+        tidal: http://www.tidal.com/album/576279941
+        youtube:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_nZWHStjs-IFUtg2iQoG893pWRk3mrWRkA
     - id: slays-the-dragon
       name: Slays the Dragon
       date: 2026-03-05
@@ -120,7 +137,7 @@
         spotify: https://open.spotify.com/album/1CxwbCaQ2x7ihdc2TB9C1F
         tidal: https://tidal.com/album/504629979
         youtube:
-        youtubemusic:
+        youtubemusic: https://music.youtube.com/playlist?list=OLAK5uy_nRRKiMEQAfhkfgYO3nByd6-oND9VKdcuY
     - id: the-chopping-block
       name: The Chopping Block
       date: 2025-06-19
