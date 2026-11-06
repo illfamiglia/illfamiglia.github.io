@@ -112,7 +112,7 @@
       image: well-spring.jpg
       outlets:
         amazonmusic: https://music.amazon.com/albums/B0HQJW3QYG
-        applemusic:
+        applemusic: https://music.apple.com/us/album/well-spring/6831363269
         bandcamp: https://illfam.bandcamp.com/album/well-spring
         deezer: https://www.deezer.com/album/1139435231
         pandora: https://www.pandora.com/artist/ill-fam/well-spring/ALrqt92l5xlJz2w
